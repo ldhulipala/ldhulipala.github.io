@@ -19,8 +19,8 @@ navigation:
       link: /
     - title: research
       link: /research.html
-    - title: blog
-      link: /blog/
+#    - title: blog
+#      link: /blog/
     - title: contact
       link: /contact.html
 
