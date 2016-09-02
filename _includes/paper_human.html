@@ -1,0 +1,15 @@
+<li class="paper">
+    <span class="title">
+    {% if paper.url %}<a href="{{ paper.url | replace: 'BASE', site.base }}">{% endif %}{% if paper.book %}<i>{% else %}&ldquo;{% endif %}{{ paper.title }}.{% if paper.book %}</i>{% else %}&rdquo;{% endif %}{% if paper.url %}</a>{% endif %}
+    </span>
+    <span class="authors">{{ paper.authors }}.</span>
+    <span class="presenter"> Presenter:{{ paper.presenter }}.</span>
+    <span class="date"> Date:{{ paper.date }}.</span>
+    {% if paper.extra %}
+    <ul class="extras">
+    {% for extra in paper.extra %}
+        <li>{{ extra | replace: 'BASE', site.base | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+</li>
