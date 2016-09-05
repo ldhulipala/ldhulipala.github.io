@@ -2,18 +2,18 @@
     title: "Compressing Graphs and Indexes with Recursive Graph Bisection"
     authors: "Laxman Dhulipala, Igor Kabiljo, Brian Karrer, Giuseppe Ottaviano, Sergey Pupyrev and Alon Shalita"
     location: KDD 2016
-    url: ldhulipala.github.io/papers/RecursiveBisection.pdf
+    url: /papers/RecursiveBisection.pdf
 
 -  
     title: "Smaller and Faster: Parallel Processing of Compressed Graphs with Ligra+"
     authors: "Julian Shun, Laxman Dhulipala and Guy E. Blelloch"
     location: DCC 2015
-    url: ldhulipala.github.io/papers/Ligra+.pdf
+    url: /papers/Ligra+.pdf
 
 - 
     title: "A simple and practical linear-work parallel algorithm for connectivity"
     authors: "Julian Shun, Laxman Dhulipala and Guy E. Blelloch"
     location: SPAA 2014
-    url: ldhulipala.github.io/papers/WEConnectivity.pdf
+    url: /papers/WEConnectivity.pdf
 
 
