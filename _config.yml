@@ -28,3 +28,4 @@ navigation:
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-sitemap
