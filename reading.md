@@ -7,7 +7,12 @@ The goal of this reading group is to learn in significant depth about parallelis
 
 We are interested in many aspects of these areas, anywhere from programming-languages and systems to parallel algorithms and scalable graph processing. If you have a paper that fits under this broad umbrella, we would probably be interestested in reading it. 
 
+You can join our mailing list [here][ml]. If you are interested in presenting, please contact [Laxman Dhulipala][ldh].
+
 **Time and Place:** We meet at 4:00pm on Thursdays. Room information will be sent out shortly.
+
+[ml]: https://lists.andrew.cmu.edu/mailman/listinfo/parallel-rg
+[ldh]: mailto:ldhulipa@cs.cmu.edu
 
 ### Schedule
 
