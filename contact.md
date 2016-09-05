@@ -1,6 +1,6 @@
 ---
 layout: default
-title: home
+title: Laxman Dhulipala
 ---
 
 Email: ldhulipa AT cs DOT cmu DOT edu  <br>

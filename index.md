@@ -1,6 +1,6 @@
 ---
 layout: default
-title: home
+title: Laxman Dhulipala
 ---
 
 I am a second year PhD student in the Computer Science Department at Carnegie Mellon University. I am fortunate to be advised by [Guy Blelloch][guy] with whom I work on parallel algorithms (both theory and practice). 

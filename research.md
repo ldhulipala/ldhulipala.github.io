@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Laxman Dhulipala
 ---
 
 {% for paper in site.data.papers %}
