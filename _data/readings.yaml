@@ -1,6 +1,13 @@
 - 
-    title: "A Bridging Model for Parallel Computation"
+    title: "A bridging model for parallel computation"
     authors: "Leslie Valiant"
     url: http://web.mit.edu/6.976/www/handout/valiant2.pdf
     date: "9/8/2016"
     presenter: Laxman
+
+- 
+    title: "A scheme for fast parallel computation"
+    authors: "Leslie Valiant"
+    url: /readings/ValiantPermutationRouting.pdf
+    date: "9/15/2016"
+    presenter: TBA
