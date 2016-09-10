@@ -9,7 +9,7 @@ We are interested in many aspects of these areas, from programming-languages and
 
 You can join our mailing list [here][ml]. If you are interested in presenting, please contact [Laxman Dhulipala][ldh].
 
-**Time and Place:** We meet on Thursdays at 4:00 pm in GHC 6121. 
+**Time and Place:** We meet on Thursdays at 5:00 pm in GHC 6121. 
 
 [ml]: https://lists.andrew.cmu.edu/mailman/listinfo/parallel-rg
 [ldh]: mailto:ldhulipa@cs.cmu.edu
