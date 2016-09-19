@@ -1,4 +1,11 @@
 - 
+  title: "Optimal and Sublogarithmic Time Randomized Parallel Sorting Algorithms"
+  authors: "S. Rajasekaran, J. Reif"
+  url: /readings/RandomizedSorting.pdf
+  date: "9/22"
+  presenter: Yan
+
+- 
   title: "A Scheme for Fast Parallel Communication"
   authors: "Leslie Valiant"
   url: /readings/ValiantPermutationRouting.pdf
