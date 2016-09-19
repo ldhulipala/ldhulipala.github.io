@@ -2,8 +2,8 @@
     <span class="date"> {{ paper.date }}:</span>
     <span class="title">
     {% if paper.url %}<a href="{{ paper.url | replace: 'BASE', site.base }}">{% endif %}{% if paper.book %}<i>{% else %}{% endif %}{{ paper.title }}{% if paper.book %}</i>{% else %}{% endif %}{% if paper.url %}</a>{% endif %}
-    </span>
     <span class="presenter"> ({{ paper.presenter }})</span>
+    </span>
     {% if paper.extra %}
     <ul class="extras">
     {% for extra in paper.extra %}
