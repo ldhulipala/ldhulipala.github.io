@@ -1,4 +1,11 @@
 - 
+  title: "Dag-Calculus: A Calculus for Parallel Computation"
+  authors: "U. Acar, A. Charguéraud, M. Rainey, F. Sieczkowski"
+  url: http://www.chargueraud.org/research/2016/dag_calculus/dag_calculus_icfp16.pdf
+  date: "9/29"
+  presenter: Sam
+
+- 
   title: "Randomized Parallel Sorting Algorithms"
   authors: "S. Rajasekaran, J. Reif"
   url: /readings/RandomizedSorting.pdf
