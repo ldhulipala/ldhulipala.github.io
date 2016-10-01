@@ -1,4 +1,11 @@
 - 
+  title: "Linear-Work Greedy Parallel Approximate Set Cover and Variants"
+  authors: "G. Blelloch, R. Peng, K. Tangwongsan"
+  url: /readings/manis.pdf
+  date: "10/6"
+  presenter: Guy
+
+- 
   title: "Dag-Calculus: A Calculus for Parallel Computation"
   authors: "U. Acar, A. Charguéraud, M. Rainey, F. Sieczkowski"
   url: http://www.chargueraud.org/research/2016/dag_calculus/dag_calculus_icfp16.pdf
