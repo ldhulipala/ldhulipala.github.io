@@ -15,14 +15,14 @@ sass:
 
 # About/contact
 navigation:
-    - title: home
-      link: /
-    - title: research
-      link: /research.html
+#    - title: home
+#      link: /
+#    - title: research
+#      link: /research.html
 #    - title: blog
 #      link: /blog/
-    - title: contact
-      link: /contact.html
+#    - title: contact
+#      link: /contact.html
 
 # Gems
 gems:

@@ -7,5 +7,13 @@ I am a second year PhD student in the Computer Science Department at Carnegie Me
 
 I am running a [reading group][rg] on parallel algorithms this semester. 
 
+
+
+### Publications
+
+{% for paper in site.data.papers %}
+  {% include paper.html %}
+{% endfor %}
+
 [guy]: http://www.cs.cmu.edu/~guyb/
 [rg]: {{ site.base }}/reading.html
