@@ -1,9 +1,16 @@
 - 
+  title: "Extending the Nested Parallel Model to the Nested Dataflow Model with Provably Efficient Schedulers"
+  authors: "G. Blelloch, R. Peng, K. Tangwongsan"
+  url: /readings/np_to_nested_dataflow.pdf
+  date: "10/13"
+  presenter: Charlie
+
+- 
   title: "Linear-Work Greedy Parallel Approximate Set Cover and Variants"
   authors: "G. Blelloch, R. Peng, K. Tangwongsan"
   url: /readings/manis.pdf
   date: "10/6"
-  presenter: Guy
+  presenter: Laxman
 
 - 
   title: "Dag-Calculus: A Calculus for Parallel Computation"
