@@ -1,4 +1,11 @@
 - 
+  title: "NC and related complexity classes"
+  authors: ""
+  url: /readings/limits.pdf
+  date: "10/20"
+  presenter: Laxman
+
+- 
   title: "Extending the Nested Parallel Model to the Nested Dataflow Model with Provably Efficient Schedulers"
   authors: "G. Blelloch, R. Peng, K. Tangwongsan"
   url: /readings/np_to_nested_dataflow.pdf
