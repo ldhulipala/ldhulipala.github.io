@@ -1,4 +1,11 @@
 - 
+  title: "A Practical Wait-Free Simulation for Lock-Free Data Structures"
+  authors: "S. Timnat, E. Petrank"
+  url: 
+  date: "11/3"
+  presenter: Naama
+
+- 
   title: "Job-scheduling for multicores"
   authors: ""
   url: 
