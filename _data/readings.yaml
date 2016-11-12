@@ -1,4 +1,11 @@
 - 
+  title: "Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent"
+  authors: "B. Recht, C. Re, S. Wright, F. Niu"
+  url: /readings/hogwild.pdf
+  date: "11/17"
+  presenter: Ellango
+
+- 
   title: "A Practical Wait-Free Simulation for Lock-Free Data Structures"
   authors: "S. Timnat, E. Petrank"
   url: /readings/wf_simulation.pdf
