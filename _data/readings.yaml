@@ -1,4 +1,11 @@
 - 
+  title: "Parallel Dynamic Programming"
+  authors: "Z. Galil, K. Park"
+  url: /readings/paralleldp.pdf
+  date: "12/1"
+  presenter: Yan
+
+- 
   title: "Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent"
   authors: "B. Recht, C. Re, S. Wright, F. Niu"
   url: /readings/hogwild.pdf
