@@ -1,4 +1,11 @@
 - 
+  title: "Scheduling Irregular Computations on Hierarchical Caches"
+  authors: "Guy E. Blelloch, Jeremy T. Fineman, Phillip B. Gibbons, Harsha Vardhan Simhadri"
+  url: /readings/sched_comp_on_hcaches.pd
+  date: "12/14"
+  presenter: Charlie
+
+- 
   title: "Parallelism in Sequential Functional Languages"
   authors: "G. Blelloch, J. Grenier"
   url: /readings/parallelism_in_seq_fl.pdf
