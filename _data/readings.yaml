@@ -1,7 +1,7 @@
 - 
   title: "Scheduling Irregular Computations on Hierarchical Caches"
   authors: "Guy E. Blelloch, Jeremy T. Fineman, Phillip B. Gibbons, Harsha Vardhan Simhadri"
-  url: /readings/sched_comp_on_hcaches.pd
+  url: /readings/sched_comp_on_hcaches.pdf
   date: "12/14"
   presenter: Charlie
 
