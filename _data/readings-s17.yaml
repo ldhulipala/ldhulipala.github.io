@@ -1,4 +1,11 @@
 -
+  title: "Split-Ordered Lists: Lock-Free Extensible Hash Tables"
+  authors: ""
+  url: /readings/split_ordered_lists.pdf
+  date: "3/29"
+  presenter: Naama
+
+-
   title: "A Random-NC Algorithm for DFS"
   authors: ""
   url: /readings/a-random-NC-algorithm-for-DFS.pdf
