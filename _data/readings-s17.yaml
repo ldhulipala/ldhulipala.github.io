@@ -1,4 +1,11 @@
 -
+  title: "Scheduling Stochastic Jobs on Parallel Machines to Minimize Makespan or Flowtime"
+  authors: ""
+  url: /readings/scheduling_stochastic_jobs_weber82.pdf
+  date: "4/5"
+  presenter: Ziv
+
+-
   title: "Split-Ordered Lists: Lock-Free Extensible Hash Tables"
   authors: ""
   url: /readings/split_ordered_lists.pdf
