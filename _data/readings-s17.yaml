@@ -1,3 +1,10 @@
+- 
+  title: "Scheduling Irregular Computations on Hierarchical Caches"
+  authors: "Guy E. Blelloch, Jeremy T. Fineman, Phillip B. Gibbons, Harsha Vardhan Simhadri"
+  url: /readings/sched_comp_on_hcaches.pdf
+  date: "4/12"
+  presenter: Charlie
+
 -
   title: "Scheduling Stochastic Jobs on Parallel Machines to Minimize Makespan or Flowtime"
   authors: ""
