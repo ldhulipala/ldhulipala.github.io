@@ -1,4 +1,11 @@
 - 
+  title: "Three Parallel SCC Algorithms"
+  authors: ""
+  url: 
+  date: "4/19"
+  presenter: Yan
+
+- 
   title: "Scheduling Irregular Computations on Hierarchical Caches"
   authors: "Guy E. Blelloch, Jeremy T. Fineman, Phillip B. Gibbons, Harsha Vardhan Simhadri"
   url: /readings/sched_comp_on_hcaches.pdf
