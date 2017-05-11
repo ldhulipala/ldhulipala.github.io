@@ -1,4 +1,10 @@
 -  
+    title: "Julienne: A Framework for Parallel Graph Algorithms using Work-efficient Bucketing"
+    authors: "Laxman Dhulipala, Guy Blelloch and Julian Shun"
+    location: (To appear in SPAA 2017)
+    url:
+
+-  
     title: "Compressing Graphs and Indexes with Recursive Graph Bisection"
     authors: "Laxman Dhulipala, Igor Kabiljo, Brian Karrer, Giuseppe Ottaviano, Sergey Pupyrev and Alon Shalita"
     location: KDD 2016
