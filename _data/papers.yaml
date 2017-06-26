@@ -1,22 +1,22 @@
--  
+-
     title: "Julienne: A Framework for Parallel Graph Algorithms using Work-efficient Bucketing"
     authors: "Laxman Dhulipala, Guy Blelloch and Julian Shun"
     location: To appear in SPAA 2017
-    url:
+    url: /papers/Bucketing.pdf
 
--  
+-
     title: "Compressing Graphs and Indexes with Recursive Graph Bisection"
     authors: "Laxman Dhulipala, Igor Kabiljo, Brian Karrer, Giuseppe Ottaviano, Sergey Pupyrev and Alon Shalita"
     location: KDD 2016
     url: /papers/RecursiveBisection.pdf
 
--  
+-
     title: "Smaller and Faster: Parallel Processing of Compressed Graphs with Ligra+"
     authors: "Julian Shun, Laxman Dhulipala and Guy E. Blelloch"
     location: DCC 2015
     url: /papers/Ligra+.pdf
 
-- 
+-
     title: "A simple and practical linear-work parallel algorithm for connectivity"
     authors: "Julian Shun, Laxman Dhulipala and Guy E. Blelloch"
     location: SPAA 2014
