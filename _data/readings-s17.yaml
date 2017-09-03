@@ -1,19 +1,33 @@
-- 
+-
+  title: "Are Lock-Free Concurrent Algorithms Practically Wait-Free?"
+  authors: ""
+  url: /readings/lock_free_practically_wait_free.pdf
+  date: "5/10"
+  presenter: Naama
+
+-
+  title: "Tapir: Embedding Fork-Join Parallelism into LLVM’s Intermediate Representation"
+  authors: ""
+  url: /readings/tapir.pdf
+  date: "5/3"
+  presenter: Laxman
+
+-
   title: "Pipelining With Futures"
   authors: ""
-  url: 
+  url:
   date: "4/26"
   presenter: Sam
 
 
-- 
+-
   title: "Three Parallel SCC Algorithms"
   authors: ""
-  url: 
+  url:
   date: "4/19"
   presenter: Yan
 
-- 
+-
   title: "Scheduling Irregular Computations on Hierarchical Caches"
   authors: "Guy E. Blelloch, Jeremy T. Fineman, Phillip B. Gibbons, Harsha Vardhan Simhadri"
   url: /readings/sched_comp_on_hcaches.pdf
