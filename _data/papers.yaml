@@ -3,6 +3,7 @@
     authors: "Laxman Dhulipala, Guy Blelloch and Julian Shun"
     location: SPAA 2017
     url: /papers/Bucketing.pdf
+    code: https://github.com/jshun/ligra/tree/master/apps/bucketing
 
 -
     title: "Compressing Graphs and Indexes with Recursive Graph Bisection"

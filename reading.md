@@ -5,14 +5,12 @@ title: Parallelism Reading Group
 
 The goal of this group is to read interesting papers in the areas of parallelism, concurrency and distributed computing. We're interested in a broad range of topics, from programming-languages and systems to parallel algorithms and graph processing.
 
-You can join our mailing list [here][ml]. If you are interested in presenting, please contact [Laxman Dhulipala][ldh].
-
-**Time and Place:** TBA
+You can join our mailing list [here][ml].
 
 [ml]: https://lists.andrew.cmu.edu/mailman/listinfo/parallel-rg
 [ldh]: mailto:ldhulipa@cs.cmu.edu
 
-### Schedule (Fall 2017): TBA
+Please note that Sam Westrick (swestric@cs.cmu.edu) is organizing the group this semester; please reach out to him if you'd like to give a talk!
 
 ### Schedule (Spring 2017)
 <ul>

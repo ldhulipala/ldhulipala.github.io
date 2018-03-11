@@ -3,7 +3,13 @@
     {% if paper.url %}<a href="{{ paper.url | replace: 'BASE', site.base }}">{% endif %}{% if paper.book %}<i>{% else %}{% endif %}{{ paper.title }}{% if paper.book %}</i>{% else %}{% endif %}{% if paper.url %}</a>{% endif %}
     </span> <br>
 <span class="authors">{{ paper.authors }}</span>
-    <span> ({{ paper.location }})</span>
+<span> ({{ paper.location }})</span>
+{% if paper.code %}
+  <br><span class="codelink">
+    <a href="{{ paper.code }}">code</a>
+  </span>
+{% endif %}
+
     {% if paper.extra %}
     <ul class="extras">
     {% for extra in paper.extra %}
