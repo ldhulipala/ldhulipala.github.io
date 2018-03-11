@@ -54,13 +54,28 @@ img {
   border-radius: 5px;
 }
 
-.headerimg {
+.header-small {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 1px;
 }
 
+.header-large {
+  display: none;
+}
+
+@media screen and (max-width: 750px) {
+  .header-small {
+    display: none;
+  }
+  .header-large {
+    display: block;
+    max-width: 100%;
+    margin: 0 0 0rem;
+    border-radius: 1px;
+  }
+}
 
 table {
   margin-bottom: 1rem;
