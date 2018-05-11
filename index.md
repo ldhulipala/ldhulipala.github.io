@@ -17,6 +17,12 @@ I helped run a [reading group][rg] on parallel algorithms from 2016-2017.
   {% include paper.html %}
 {% endfor %}
 
+### Notes
+
+{% for paper in site.data.notes %}
+  {% include paper.html %}
+{% endfor %}
+
 [guy]: http://www.cs.cmu.edu/~guyb/
 [zoya]: https://sites.google.com/site/zoyasvitkina/
 [rg]: {{ site.base }}/reading.html
