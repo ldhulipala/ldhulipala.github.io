@@ -2,8 +2,8 @@
     <span class="paper-title">
     {% if paper.url %}<a href="{{ paper.url | replace: 'BASE', site.base }}">{% endif %}{% if paper.book %}<i>{% else %}{% endif %}{{ paper.title }}{% if paper.book %}</i>{% else %}{% endif %}{% if paper.url %}</a>{% endif %}
     </span> <br>
-<span class="authors">{{ paper.authors }}</span>
-<span> ({{ paper.location }})</span>
+    <span class="authors">{{ paper.authors }}</span>
+{% if paper.location %} <span> ({{ paper.location }})</span> {% endif %}
 {% if paper.code %}
   <br><span class="codelink">
     <a href="{{ paper.code }}">code</a>
