@@ -7,9 +7,9 @@ title: Laxman Dhulipala
 
 I am a fourth year PhD student in the Computer Science Department at Carnegie Mellon University. I am very fortunate to be advised by [Guy Blelloch][guy] with whom I work on parallel algorithms.
 
-In 2018, I spent the summer at Google Research (New York) where I worked with [Jakub Łącki][kuba] on clustering and related problems.
+In 2018, I worked with [Jakub Łącki][kuba] on clustering and related problems at Google Research (New York).
 
-In 2017, I spent the summer at Google Research (Mountain View) where I worked with [Zoya Svitkina][zoya] on resource-allocation problems.
+In 2017, I worked with [Zoya Svitkina][zoya] on resource-allocation problems at Google Research (Mountain View).
 
 I helped run a [reading group][rg] on parallel algorithms from 2016-2017.
 
