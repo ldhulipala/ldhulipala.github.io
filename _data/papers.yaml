@@ -1,7 +1,9 @@
 -
     title: "Theoretically Efficient Parallel Algorithms Can Be Fast and Scalable"
     authors: "Laxman Dhulipala, Guy Blelloch and Julian Shun"
-    location: To appear in SPAA 2018
+    location: 2018
+    url: https://arxiv.org/abs/1805.05208
+    code: https://github.com/ldhulipala/gbbs
 
 -
     title: "Julienne: A Framework for Parallel Graph Algorithms using Work-efficient Bucketing"
