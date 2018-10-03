@@ -1,7 +1,7 @@
 -
     title: "Theoretically Efficient Parallel Algorithms Can Be Fast and Scalable"
     authors: "Laxman Dhulipala, Guy Blelloch and Julian Shun"
-    location: 2018
+    location: SPAA 2018 (Best Paper Award)
     url: https://arxiv.org/abs/1805.05208
     code: https://github.com/ldhulipala/gbbs
 
@@ -23,11 +23,13 @@
     authors: "Julian Shun, Laxman Dhulipala and Guy E. Blelloch"
     location: DCC 2015
     url: /papers/Ligra+.pdf
+    code: https://github.com/jshun/ligra/
 
 -
     title: "A simple and practical linear-work parallel algorithm for connectivity"
     authors: "Julian Shun, Laxman Dhulipala and Guy E. Blelloch"
     location: SPAA 2014
     url: /papers/WEConnectivity.pdf
+    code: https://people.csail.mit.edu/jshun/connectedComponents.tar
 
 
