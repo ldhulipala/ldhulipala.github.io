@@ -1,4 +1,11 @@
 -
+    title: "Batch Parallel Euler-Tour Trees"
+    authors: "Thomas Tseng, Laxman Dhulipala and Guy Blelloch"
+    location: ALENEX 2019
+    url: /papers/forthcoming.pdf
+    code: /code/forthcoming.tar.gz
+
+-
     title: "Theoretically Efficient Parallel Algorithms Can Be Fast and Scalable"
     authors: "Laxman Dhulipala, Guy Blelloch and Julian Shun"
     location: SPAA 2018, Best Paper Award
