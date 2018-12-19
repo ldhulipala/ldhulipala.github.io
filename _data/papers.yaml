@@ -3,7 +3,7 @@
     authors: "Thomas Tseng, Laxman Dhulipala and Guy Blelloch"
     location: ALENEX 2019
     url: https://arxiv.org/abs/1810.10738
-    code: /code/forthcoming.tar.gz
+    code: https://github.com/tomtseng/parallel-euler-tour-tree
 
 -
     title: "Theoretically Efficient Parallel Algorithms Can Be Fast and Scalable"
