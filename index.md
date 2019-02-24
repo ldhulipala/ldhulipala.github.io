@@ -5,7 +5,7 @@ title: Laxman Dhulipala
 
 I am a fourth year PhD student in the Computer Science Department at Carnegie Mellon University. I am very fortunate to be advised by [Guy Blelloch][guy] with whom I work on parallel graph algorithms.
 
-I recently spent two very enjoyable summers at Google.
+I recently spent two enjoyable summers at Google.
 
 *   In 2018, I worked with [Jakub Łącki][kuba] on graph clustering and other problems at Google Research New York.
 *   In 2017 I worked with [Zoya Svitkina][zoya] on fault-tolerant resource allocation at Google Research Mountain View.
