@@ -65,6 +65,10 @@ img {
   display: none;
 }
 
+.m-content {
+ font-size: 0.85rem;
+}
+
 @media screen and (max-width: 750px) {
   .header-small {
     display: none;
@@ -76,6 +80,8 @@ img {
     border-radius: 1px;
   }
 }
+
+
 
 table {
   margin-bottom: 1rem;

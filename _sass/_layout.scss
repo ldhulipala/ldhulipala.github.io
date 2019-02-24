@@ -22,13 +22,13 @@ margin-bottom: 1em;
   padding: 0em 0;
 }
 
-
 .container {
   max-width: 32rem;
   padding-left:  1.5rem;
   padding-right: 1.5rem;
   margin-left:  auto;
   margin-right: auto;
+  font-size: 0.85rem;
 }
 
 footer {
@@ -37,4 +37,8 @@ footer {
 
 .paper {
   padding-bottom: 1rem;
+}
+
+.email {
+  font-size: 0.8rem;
 }
