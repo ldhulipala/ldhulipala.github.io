@@ -1,16 +1,16 @@
 -
     title: "Low-Latency Graph Streaming Using Compressed Purely-Functional Trees"
-    authors: "Laxman Dhulipala, Guy Blelloch, Julian Shun"
+    authors: "Laxman Dhulipala, Guy Blelloch, and Julian Shun"
     location: To appear in PLDI 2019
 
 -
     title: "Massively Parallel Computation via Remote Memory Access"
-    authors: "Soheil Behnezhad, Laxman Dhulipala, Hossein Esfandiari, Jakub Łącki, Vahab Mirrokni, Warren Schudy"
+    authors: "Soheil Behnezhad, Laxman Dhulipala, Hossein Esfandiari, Jakub Łącki, Vahab Mirrokni, and Warren Schudy"
     location: To appear in SPAA 2019
 
 -
     title: "Parallel Batch-Dynamic Graph Connectivity"
-    authors: "Umut Acar, Daniel Anderson, Guy Blelloch, Laxman Dhulipala"
+    authors: "Umut Acar, Daniel Anderson, Guy Blelloch, and Laxman Dhulipala"
     location: To appear in SPAA 2019
 
 -
