@@ -1,38 +1,35 @@
 -
     title: "Low-Latency Graph Streaming Using Compressed Purely-Functional Trees"
-    authors: "Laxman Dhulipala, Guy E. Blelloch, Julian Shun"
-    location: PLDI 2019
-    url: /papers/forthcoming.pdf
+    authors: "Laxman Dhulipala, Guy Blelloch, Julian Shun"
+    location: To appear in PLDI 2019
 
 -
     title: "Massively Parallel Computation via Remote Memory Access"
     authors: "Soheil Behnezhad, Laxman Dhulipala, Hossein Esfandiari, Jakub Łącki, Vahab Mirrokni, Warren Schudy"
-    location: SPAA 2019
-    url: /papers/forthcoming.pdf
+    location: To appear in SPAA 2019
 
 -
     title: "Parallel Batch-Dynamic Graph Connectivity"
-    authors: "Umut Acar, Daniel Anderson, Guy E. Blelloch, Laxman Dhulipala"
-    location: SPAA 2019
-    url: /papers/forthcoming.pdf
+    authors: "Umut Acar, Daniel Anderson, Guy Blelloch, Laxman Dhulipala"
+    location: To appear in SPAA 2019
 
 -
     title: "Batch Parallel Euler-Tour Trees"
-    authors: "Thomas Tseng, Laxman Dhulipala and Guy E. Blelloch"
+    authors: "Thomas Tseng, Laxman Dhulipala and Guy Blelloch"
     location: ALENEX 2019
     url: https://arxiv.org/abs/1810.10738
     code: https://github.com/tomtseng/parallel-euler-tour-tree
 
 -
     title: "Theoretically Efficient Parallel Algorithms Can Be Fast and Scalable"
-    authors: "Laxman Dhulipala, Guy E. Blelloch and Julian Shun"
-    location: SPAA 2018, Best Paper Award
+    authors: "Laxman Dhulipala, Guy Blelloch and Julian Shun"
+    location: SPAA 2018 <br><b>Best Paper Award</b>
     url: https://arxiv.org/abs/1805.05208
     code: https://github.com/ldhulipala/gbbs
 
 -
     title: "Julienne: A Framework for Parallel Graph Algorithms using Work-efficient Bucketing"
-    authors: "Laxman Dhulipala, Guy E. Blelloch and Julian Shun"
+    authors: "Laxman Dhulipala, Guy Blelloch and Julian Shun"
     location: SPAA 2017
     url: /papers/Bucketing.pdf
     code: https://github.com/jshun/ligra/tree/master/apps/bucketing
@@ -45,14 +42,14 @@
 
 -
     title: "Smaller and Faster: Parallel Processing of Compressed Graphs with Ligra+"
-    authors: "Julian Shun, Laxman Dhulipala and Guy E. Blelloch"
+    authors: "Julian Shun, Laxman Dhulipala and Guy Blelloch"
     location: DCC 2015
     url: /papers/Ligra+.pdf
     code: https://github.com/jshun/ligra/
 
 -
     title: "A simple and practical linear-work parallel algorithm for connectivity"
-    authors: "Julian Shun, Laxman Dhulipala and Guy E. Blelloch"
+    authors: "Julian Shun, Laxman Dhulipala and Guy Blelloch"
     location: SPAA 2014
     url: /papers/WEConnectivity.pdf
     code: https://people.csail.mit.edu/jshun/connectedComponents.tar
