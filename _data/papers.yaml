@@ -8,7 +8,7 @@
     authors: "Laxman Dhulipala, Guy Blelloch, and Julian Shun"
     url: https://arxiv.org/abs/1904.08380
     location: PLDI 2019 <br><b>Distinguished Paper Award</b>
-    code: https://github.com/ldhulipala/gbbs
+    code: https://github.com/ldhulipala/aspen
 
 -
     title: "Massively Parallel Computation via Remote Memory Access"
