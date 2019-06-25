@@ -1,20 +1,26 @@
 -
+    title: "Near-Optimal Massively Parallel Graph Connectivity"
+    authors: "Soheil Behnezhad, Laxman Dhulipala, Hossein Esfandiari, Jakub Łącki, and Vahab Mirrokni"
+    location: To appear in FOCS 2019
+
+-
     title: "Low-Latency Graph Streaming Using Compressed Purely-Functional Trees"
     authors: "Laxman Dhulipala, Guy Blelloch, and Julian Shun"
     url: https://arxiv.org/abs/1904.08380
-    location: To appear in PLDI 2019
+    location: PLDI 2019 <br><b>Distinguished Paper Award</b>
+    code: https://github.com/ldhulipala/gbbs
 
 -
     title: "Massively Parallel Computation via Remote Memory Access"
     authors: "Soheil Behnezhad, Laxman Dhulipala, Hossein Esfandiari, Jakub Łącki, Vahab Mirrokni, and Warren Schudy"
     url: https://arxiv.org/abs/1905.07533
-    location: To appear in SPAA 2019
+    location: SPAA 2019
 
 -
     title: "Parallel Batch-Dynamic Graph Connectivity"
     authors: "Umut Acar, Daniel Anderson, Guy Blelloch, and Laxman Dhulipala"
     url: https://arxiv.org/abs/1903.08794
-    location: To appear in SPAA 2019
+    location: SPAA 2019
 
 -
     title: "Batch Parallel Euler-Tour Trees"
