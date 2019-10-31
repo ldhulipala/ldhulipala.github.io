@@ -27,6 +27,12 @@ In 2016 I organized a [reading group][rg] on parallel algorithms.
 {% endfor %}
 
 
+#### Other
+
+{% for paper in site.data.other %}
+  {% include paper.html %}
+{% endfor %}
+
 
 [guy]: http://www.cs.cmu.edu/~guyb/
 [julian]: https://people.csail.mit.edu/jshun/
