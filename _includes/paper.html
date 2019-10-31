@@ -1,22 +1,35 @@
 <div class="paper">
-    <span class="paper-title">
-    {% if paper.url %}<a href="{{ paper.url | replace: 'BASE', site.base }}">{% endif %}{% if paper.book %}<i>{% else %}{% endif %}{{ paper.title }}{% if paper.book %}</i>{% else %}{% endif %}{% if paper.url %}</a>{% endif %}
-    </span> <br>
-    {% if paper.authors %}<span class="authors">{{ paper.authors }}</span>{% endif %}
-{% if paper.location %}
+<span class="paper-title">
+{% if paper.url %}<a href="{{ paper.url | replace: 'BASE', site.base }}">{% endif %}{% if paper.book %}<i>{% else %}{% endif %}{{ paper.title }}{% if paper.book %}</i>{% else %}{% endif %}{% if paper.url %}</a>{% endif %}
+</span>
+
+{% if paper.authors %}
 <br>
-<span> {{ paper.location }}</span> {% endif %}
-{% if paper.code %}
-  <br><span class="codelink">
-    <a href="{{ paper.code }}">code</a>
-  </span>
+<span class="authors">{{ paper.authors }}</span>
 {% endif %}
 
-    {% if paper.extra %}
-    <ul class="extras">
-    {% for extra in paper.extra %}
-        <li class="sched-content">{{ extra | replace: 'BASE', site.base | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</li>
-    {% endfor %}
-    </ul>
-    {% endif %}
+{% if paper.location %}
+<br>
+<span> {{ paper.location }}</span>
+{% endif %}
+
+{% if paper.award %}
+<br>
+<span style="color:green"> {{ paper.award }}</span>
+{% endif %}
+
+{% if paper.code %}
+<br>
+<span class="codelink">
+  <a href="{{ paper.code }}">code</a>
+</span>
+{% endif %}
+
+{% if paper.extra %}
+<ul class="extras">
+{% for extra in paper.extra %}
+    <li class="sched-content">{{ extra | replace: 'BASE', site.base | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</li>
+{% endfor %}
+</ul>
+{% endif %}
 </div>
