@@ -27,7 +27,7 @@ In 2016 I organized a [reading group][rg] on parallel algorithms.
 {% endfor %}
 
 
-#### Other
+#### Thesis
 
 {% for paper in site.data.other %}
   {% include paper.html %}
