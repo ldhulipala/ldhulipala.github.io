@@ -1,6 +1,17 @@
 -
+    title: "Parallel Batch-Dynamic Graphs: Algorithms and Lower Bounds."
+    authors: "Laxman Dhulipala, David Durfee, Janardhan Kulkarni, Richard Peng, Saurabh Sawlani, and Xiaorui Sun"
+    location: To appear in SODA 2020
+
+-
+    title: "PriorityGraph: A Unified Programming Model for Optimizing Ordered Graph Algorithms"
+    authors: "Yunming Zhang, Ajay Brahmakshatriya, Xinyi Chen, Laxman Dhulipala, Shoaib Kamil, Saman Amarasinghe, and Julian Shun"
+    location: To appear in CGO 2020
+
+-
     title: "Near-Optimal Massively Parallel Graph Connectivity"
     authors: "Soheil Behnezhad, Laxman Dhulipala, Hossein Esfandiari, Jakub Łącki, and Vahab Mirrokni"
+    url: https://arxiv.org/abs/1910.05385
     location: To appear in FOCS 2019
 
 -
