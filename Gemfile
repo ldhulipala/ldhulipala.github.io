@@ -14,10 +14,6 @@ ruby RUBY_VERSION
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima"
 
-# bingo bongo
-gem "rubyzip", ">= 1.3.0"
-gem "nokogiri", ">= 1.10.4"
-
 gem "jekyll-sitemap"
 
 
