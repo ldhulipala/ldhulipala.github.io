@@ -1,10 +1,4 @@
 -
-    title: "Thesis Proposal: Provably Efficient and Scalable Shared-Memory Graph Algorithms"
-    authors: "Laxman Dhulipala"
-    url: /papers/Proposal.pdf
-    location:
-
--
     title: "Near-Optimal Massively Parallel Graph Connectivity"
     authors: "Soheil Behnezhad, Laxman Dhulipala, Hossein Esfandiari, Jakub Łącki, and Vahab Mirrokni"
     location: To appear in FOCS 2019
