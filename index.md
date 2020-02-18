@@ -8,8 +8,9 @@ I am a fifth, and final year PhD student in the Computer Science Department at C
 I am very fortunate to be advised by [Guy Blelloch][guy] with whom I work on efficient parallel graph algorithms.
 
 I am currently also a student researcher at Google Research, working
-with [Jakub Łącki][kuba] on empirically studying the [AMPC model][ampcpaper], and on developing shared-memory graph clustering
-algorithms.
+with [Jakub Łącki][kuba] on empirically studying graph algorithms in
+the [AMPC model][ampcpaper], and on developing shared-memory graph
+clustering algorithms.
 
 I was lucky to spend the past summer at MIT working with [Julian Shun][julian], and spent the two previous summers at Google.
 
