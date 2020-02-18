@@ -4,8 +4,10 @@ title: Laxman Dhulipala
 ---
 
 #### About me
-I am a fifth year PhD student in the Computer Science Department at Carnegie Mellon University.
+I am a fifth, and final year PhD student in the Computer Science Department at Carnegie Mellon University.
 I am very fortunate to be advised by [Guy Blelloch][guy] with whom I work on efficient parallel graph algorithms.
+
+I am currently a student researcher at Google Research New York, working with [Jakub Łącki][kuba] on empirically studying the [AMPC model][ampcpaper], and on shared-memory graph clustering.
 
 I was lucky to spend the past summer at MIT working with [Julian Shun][julian], and spent the two previous summers at Google.
 
@@ -38,4 +40,5 @@ In 2016 I organized a [reading group][rg] on parallel algorithms.
 [julian]: https://people.csail.mit.edu/jshun/
 [kuba]: https://ai.google/research/people/105517
 [zoya]: https://sites.google.com/site/zoyasvitkina/
+[ampcpaper]: https://arxiv.org/abs/1905.07533
 [rg]: {{ site.base }}/reading.html
