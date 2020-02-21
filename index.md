@@ -14,7 +14,7 @@ shared-memory graph clustering algorithms.
 
 I have been lucky to spend the past few summers working with mentors outside of CMU.
 
-*   In 2019, I spent the summer working with [Julian Shun][julian] as part of his exciting group at MIT on parallel and dynamic clique-counting, and related problems.
+*   In 2019, I spent the summer working with [Julian Shun][julian] as part of his exciting group at MIT on parallel and dynamic clique-counting.
 *   In 2018, I was an intern with the Graph Mining team at Google Research New York, where I worked with [Jakub Łącki][kuba] on graph clustering and massively parallel algorithms.
 *   In 2017 I was an intern at Google Research Mountain View, where I worked with [Zoya Svitkina][zoya] on fault-tolerant resource allocation.
 
