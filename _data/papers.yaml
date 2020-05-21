@@ -1,8 +1,23 @@
 -
+    title: "Sage: Parallel Semi-Asymmetric Graph Algorithms for NVRAMs"
+    authors: "Laxman Dhulipala, Charles McGuffey, Hongbo Kang, Yan Gu, Guy Blelloch, Phillip Gibbons, and Julian Shun"
+    location: To appear in VLDB 2020
+
+-
+    title: "The Graph Based Benchmark Suite (GBBS)"
+    authors: "Laxman Dhulipala, Jessica Shi, Tom Tseng, Guy E. Blelloch, and Julian Shun"
+    location: To appear in GRADES-NDA 2020
+
+-
+    title: "Brief Announcement:ParlayLib– A Toolkit for ParallelAlgorithms on Shared-Memory Multicore Machines"
+    authors: "Guy E. Blelloch, Daniel Anderson, and Laxman Dhulipala"
+    location: To appear in SPAA 2020
+
+-
     title: "PriorityGraph: A Unified Programming Model for Optimizing Ordered Graph Algorithms"
     authors: "Yunming Zhang, Ajay Brahmakshatriya, Xinyi Chen, Laxman Dhulipala, Shoaib Kamil, Saman Amarasinghe, and Julian Shun"
     url: https://arxiv.org/abs/1911.07260
-    location: To appear in CGO 2020
+    location: CGO 2020
 
 -
     title: "Parallel Batch-Dynamic Graphs: Algorithms and Lower Bounds."
