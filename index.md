@@ -5,7 +5,7 @@ title: Laxman Dhulipala
 
 #### About me
 I am currently a postdoc at MIT where I work with [Julian Shun][julian] on parallel, dynamic, and streaming graph
-algorithms. I recently received a Ph.D. from the Computer Science
+processing. I recently received a Ph.D. from the Computer Science
 Department at Carnegie Mellon University under [Guy Blelloch][guy].
 
 #### Publications
