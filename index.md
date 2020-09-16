@@ -4,16 +4,12 @@ title: Laxman Dhulipala
 ---
 
 #### About me
-I am a fifth, and final year PhD student in the Computer Science Department at Carnegie Mellon University.
-I am very fortunate to be advised by [Guy Blelloch][guy] with whom I work on efficient parallel graph algorithms.
+I am currently a PostDoc at MIT where I am working with [Julian Shun][julian] on parallel, dynamic, and streaming graph
+algorithms. I recently graduated with a PhD from the Computer Science
+Department at Carnegie Mellon University where I was advised by [Guy Blelloch][guy].
 
-I am currently also a student researcher at Google Research, where I
-am working with [Jakub Łącki][kuba] on empirically studying graph
-algorithms in the [AMPC model][ampcpaper], and on developing
-shared-memory graph clustering algorithms.
-
-I have been lucky to spend the past few summers working with mentors outside of CMU.
-
+I have been lucky to spend the past few years working with mentors outside of CMU.
+*   From 2019 to 2020, I was a student researcher at Google Research working with [Jakub Łącki][kuba] on empirically studying algorithms in the [AMPC model][ampcpaper], and on developing shared-memory graph clustering algorithms.
 *   In 2019, I spent the summer working with [Julian Shun][julian] at MIT on parallel and dynamic clique-counting problems.
 *   In 2018, I was an intern with the Graph Mining team at Google Research New York, where I worked with [Jakub Łącki][kuba] on graph clustering and massively parallel algorithms.
 *   In 2017 I was an intern at Google Research Mountain View, where I worked with [Zoya Svitkina][zoya] on fault-tolerant resource allocation.
