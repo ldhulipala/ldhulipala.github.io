@@ -4,11 +4,11 @@ title: Laxman Dhulipala
 ---
 
 #### About me
-I am currently a PostDoc at MIT where I am working with [Julian Shun][julian] on parallel, dynamic, and streaming graph
-algorithms. I recently graduated with a PhD from the Computer Science
-Department at Carnegie Mellon University where I was advised by [Guy Blelloch][guy].
+I am currently a postdoc at MIT where I work with [Julian Shun][julian] on parallel, dynamic, and streaming graph
+algorithms. I recently received a Ph.D. from the Computer Science
+Department at Carnegie Mellon University under [Guy Blelloch][guy].
 
-I have been lucky to spend the past few years working with mentors outside of CMU.
+I have also been fortunate to spend the past few years working with mentors outside of CMU.
 *   From 2019 to 2020, I was a student researcher at Google Research working with [Jakub Łącki][kuba] on empirically studying algorithms in the [AMPC model][ampcpaper], and on developing shared-memory graph clustering algorithms.
 *   In 2019, I spent the summer working with [Julian Shun][julian] at MIT on parallel and dynamic clique-counting problems.
 *   In 2018, I was an intern with the Graph Mining team at Google Research New York, where I worked with [Jakub Łącki][kuba] on graph clustering and massively parallel algorithms.
