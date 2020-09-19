@@ -1,0 +1,112 @@
+-
+    title: "Sage: Parallel Semi-Asymmetric Graph Algorithms for NVRAMs"
+    authors: "Laxman Dhulipala, Charles McGuffey, Hongbo Kang, Yan Gu, Guy Blelloch, Phillip Gibbons, and Julian Shun"
+    pdf: http://www.vldb.org/pvldb/vol13/p1598-dhulipala.pdf
+    arxiv: https://arxiv.org/abs/1910.12310
+    location: Proceedings of the VLDB Endowment, 2020.
+    code: https://github.com/ParAlg/gbbs/tree/master/sage
+
+-
+    title: "The Graph Based Benchmark Suite (GBBS)"
+    authors: "Laxman Dhulipala, Jessica Shi, Tom Tseng, Guy E. Blelloch, and Julian Shun"
+    pdf: https://dl.acm.org/doi/abs/10.1145/3398682.3399168
+    location: Proceedings of the Joint Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA), 2020
+    code: https://github.com/ParAlg/gbbs
+
+-
+    title: "Brief Announcement: ParlayLib – A Toolkit for Parallel Algorithms on Shared-Memory Multicore Machines"
+    authors: "Guy E. Blelloch, Daniel Anderson, and Laxman Dhulipala"
+    pdf: /papers/parlaylib.pdf
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2020.
+
+-
+    title: "Optimizing Ordered Graph Algorithms with GraphIt"
+    authors: "Yunming Zhang, Ajay Brahmakshatriya, Xinyi Chen, Laxman Dhulipala, Shoaib Kamil, Saman Amarasinghe, and Julian Shun"
+    pdf: https://dl.acm.org/doi/10.1145/3368826.3377909
+    arxiv: https://arxiv.org/abs/1911.07260
+    code: https://graphit-lang.org/
+    location: Proceedings of the International Symposium on Code Generation and Optimization (CGO), 2020.
+
+-
+    title: "Parallel Batch-Dynamic Graphs: Algorithms and Lower Bounds"
+    authors: "Laxman Dhulipala, David Durfee, Janardhan Kulkarni, Richard Peng, Saurabh Sawlani, and Xiaorui Sun"
+    pdf: https://epubs.siam.org/doi/10.1137/1.9781611975994.79
+    arxiv: https://arxiv.org/abs/1908.01956
+    location: Proceedings of the ACM-SIAM Symposium on Discrete Algorithms (SODA), 2020.
+
+-
+    title: "Near-Optimal Massively Parallel Graph Connectivity"
+    authors: "Soheil Behnezhad, Laxman Dhulipala, Hossein Esfandiari, Jakub Łącki, and Vahab Mirrokni"
+    pdf: https://conferences.computer.org/focs/2019/pdfs/FOCS2019-7pBwCpNH4Mz2L4MJWVl6Xp/4VyaCnL7IMbBu0iJfQ0Fq8/65fVf8mD3EyaE1uGps3wIT.pdf
+    arxiv: https://arxiv.org/abs/1910.05385
+    location: Proceedings of the IEEE Symposium on Foundations of Computer Science (FOCS), 2019.
+
+-
+    title: "Low-Latency Graph Streaming Using Compressed Purely-Functional Trees"
+    authors: "Laxman Dhulipala, Guy Blelloch, and Julian Shun"
+    pdf: https://dl.acm.org/doi/10.1145/3314221.3314598
+    arxiv: https://arxiv.org/abs/1904.08380
+    location: Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2019.
+    award: Distinguished Paper Award
+    code: https://github.com/ldhulipala/aspen
+
+-
+    title: "Massively Parallel Computation via Remote Memory Access"
+    authors: "Soheil Behnezhad, Laxman Dhulipala, Hossein Esfandiari, Jakub Łącki, Vahab Mirrokni, and Warren Schudy"
+    pdf: https://dl.acm.org/doi/10.1145/3323165.3323208
+    arxiv: https://arxiv.org/abs/1905.07533
+    award: Invited to Special Issue
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2019.
+
+-
+    title: "Parallel Batch-Dynamic Graph Connectivity"
+    authors: "Umut Acar, Daniel Anderson, Guy Blelloch, and Laxman Dhulipala"
+    pdf: https://dl.acm.org/doi/10.1145/3323165.3323196
+    arxiv: https://arxiv.org/abs/1903.08794
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2019.
+
+-
+    title: "Batch Parallel Euler-Tour Trees"
+    authors: "Thomas Tseng, Laxman Dhulipala, and Guy Blelloch"
+    location: Proceedings of the SIAM Meeting on Algorithm Engineering and Experiments (ALENEX), 2019.
+    pdf: https://epubs.siam.org/doi/10.1137/1.9781611975499.8
+    arxiv: https://arxiv.org/abs/1810.10738
+    code: https://github.com/tomtseng/parallel-euler-tour-tree
+
+-
+    title: "Theoretically Efficient Parallel Algorithms Can Be Fast and Scalable"
+    authors: "Laxman Dhulipala, Guy Blelloch, and Julian Shun"
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2018.
+    award: Best Paper Award, Invited to Special Issue
+    url: https://arxiv.org/abs/1805.05208
+    code: https://github.com/ParAlg/gbbs
+
+-
+    title: "Julienne: A Framework for Parallel Graph Algorithms using Work-efficient Bucketing"
+    authors: "Laxman Dhulipala, Guy Blelloch, and Julian Shun"
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2017.
+    pdf: /papers/Bucketing.pdf
+    code: https://github.com/jshun/ligra/tree/master/apps/bucketing
+
+-
+    title: "Compressing Graphs and Indexes with Recursive Graph Bisection"
+    authors: "Laxman Dhulipala, Igor Kabiljo, Brian Karrer, Giuseppe Ottaviano, Sergey Pupyrev, and Alon Shalita"
+    location: Proceedings of the International Conference on Knowledge Discovery and Data Mining (KDD), 2016.
+    pdf: /papers/RecursiveBisection.pdf
+    arxiv: https://arxiv.org/abs/1602.08820
+
+-
+    title: "Smaller and Faster: Parallel Processing of Compressed Graphs with Ligra+"
+    authors: "Julian Shun, Laxman Dhulipala, and Guy Blelloch"
+    location: Proceedings of the IEEE Data Compression Conference (DCC), 2015.
+    pdf: /papers/Ligra+.pdf
+    code: https://github.com/jshun/ligra/
+
+-
+    title: "A simple and practical linear-work parallel algorithm for connectivity"
+    authors: "Julian Shun, Laxman Dhulipala, and Guy Blelloch"
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2014.
+    pdf: /papers/WEConnectivity.pdf
+    code: https://people.csail.mit.edu/jshun/connectedComponents.tar
+
+
