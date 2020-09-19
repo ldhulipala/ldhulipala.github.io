@@ -91,7 +91,7 @@
 -
     title: "Compressing Graphs and Indexes with Recursive Graph Bisection"
     authors: "Laxman Dhulipala, Igor Kabiljo, Brian Karrer, Giuseppe Ottaviano, Sergey Pupyrev, and Alon Shalita"
-    location: Proceedings of the International Conference on Knowledge Discovery and Data Mining (KDD), 2016.
+    location: Proceedings of the ACM Conference on Knowledge Discovery and Data Mining (KDD), 2016.
     pdf: /papers/RecursiveBisection.pdf
     arxiv: https://arxiv.org/abs/1602.08820
 
