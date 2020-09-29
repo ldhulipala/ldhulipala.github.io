@@ -1,9 +1,21 @@
 -
+    title: "Parallel Graph Algorithms in Constant Adaptive Rounds: Theory meets Practice"
+    authors: "Soheil Behnezhad, Laxman Dhulipala, Hossein Esfandiari, Jakub Łącki, Vahab Mirrokni, and Warren Schudy"
+    arxiv: https://arxiv.org/pdf/2009.11552
+    location: To appear in Proceedings of the VLDB Endowment (PVLDB), 2020. To be presented at VLDB'21.
+
+-
+    title: "Exploring the Design Space of Static and Incremental Graph Connectivity Algorithms on GPUs"
+    authors: "Changwan Hong, Laxman Dhulipala, and Julian Shun"
+    arxiv: https://arxiv.org/abs/2008.11839
+    location: To appear in Proceedings of International Conference on Parallel Architectures and Compilation Techniques (PACT), 2020.
+
+-
     title: "Sage: Parallel Semi-Asymmetric Graph Algorithms for NVRAMs"
     authors: "Laxman Dhulipala, Charles McGuffey, Hongbo Kang, Yan Gu, Guy Blelloch, Phillip Gibbons, and Julian Shun"
     pdf: http://www.vldb.org/pvldb/vol13/p1598-dhulipala.pdf
     arxiv: https://arxiv.org/abs/1910.12310
-    location: Proceedings of the VLDB Endowment, 2020.
+    location: Proceedings of the VLDB Endowment (PVLDB), 2020.
     code: https://github.com/ParAlg/gbbs/tree/master/sage
 
 -
