@@ -1,14 +1,42 @@
 -
+    title: "Parallel Index-Based Structural Graph Clustering and Its Approximation"
+    authors: "Tom Tseng, Laxman Dhulipala, and Julian Shun"
+    arxiv: https://arxiv.org/abs/2012.11188
+    location: To appear in Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021.
+
+-
+    title: "ConnectIt: A Framework for Static and Incremental Parallel Connectivity Algorithms"
+    authors: "Laxman Dhulipala, Changwan Hong, and Julian Shun"
+    arxiv: https://arxiv.org/abs/2008.03909
+    pdf: http://www.vldb.org/pvldb/vol14/p653-dhulipala.pdf
+    location: Proceedings of the VLDB Endowment (PVLDB), 2021.
+
+-
+    title: "Parallel Batch-Dynamic k-Clique Counting"
+    authors: "Laxman Dhulipala, Quanquan Liu, Julian Shun, and Shangdi Yu"
+    pdf: /papers/dynamic-clique.pdf
+    arxiv: https://arxiv.org/abs/2003.13585
+    location: Proceedings of the SIAM Symposium on Algorithmic Principles of Computer Systems (APOCS), 2021.
+
+-
+    title: "The Read-Only Semi-External Model"
+    authors: "Guy Blelloch, Laxman Dhulipala, Phillip Gibbons, Yan Gu, Charles McGuffey, and Julian Shun"
+    pdf: /papers/ROSE.pdf
+    location: Proceedings of the SIAM Symposium on Algorithmic Principles of Computer Systems (APOCS), 2021.
+
+-
     title: "Parallel Graph Algorithms in Constant Adaptive Rounds: Theory meets Practice"
     authors: "Soheil Behnezhad, Laxman Dhulipala, Hossein Esfandiari, Jakub Łącki, Vahab Mirrokni, and Warren Schudy"
     arxiv: https://arxiv.org/pdf/2009.11552
-    location: To appear in Proceedings of the VLDB Endowment (PVLDB), 2020. To be presented at VLDB'21.
+    pdf: http://www.vldb.org/pvldb/vol13/p3588-behnezhad.pdf
+    location: Proceedings of the VLDB Endowment (PVLDB), 2020. (To be presented at VLDB'21)
 
 -
     title: "Exploring the Design Space of Static and Incremental Graph Connectivity Algorithms on GPUs"
     authors: "Changwan Hong, Laxman Dhulipala, and Julian Shun"
     arxiv: https://arxiv.org/abs/2008.11839
-    location: To appear in Proceedings of International Conference on Parallel Architectures and Compilation Techniques (PACT), 2020.
+    pdf: /papers/GCONN.pdf
+    location: Proceedings of International Conference on Parallel Architectures and Compilation Techniques (PACT), 2020.
 
 -
     title: "Sage: Parallel Semi-Asymmetric Graph Algorithms for NVRAMs"
@@ -16,6 +44,7 @@
     pdf: http://www.vldb.org/pvldb/vol13/p1598-dhulipala.pdf
     arxiv: https://arxiv.org/abs/1910.12310
     location: Proceedings of the VLDB Endowment (PVLDB), 2020.
+    award: Memorable Paper Award Finalist at the Non-Volatile Memories Workshop (NVMW’20)
     code: https://github.com/ParAlg/gbbs/tree/master/sage
 
 -
@@ -45,6 +74,13 @@
     pdf: https://epubs.siam.org/doi/10.1137/1.9781611975994.79
     arxiv: https://arxiv.org/abs/1908.01956
     location: Proceedings of the ACM-SIAM Symposium on Discrete Algorithms (SODA), 2020.
+
+-
+    title: "Parallel Batch-Dynamic Trees via Change Propagation"
+    authors: "Umut Acar, Daniel Anderson, Guy Blelloch, Laxman Dhulipala, and Sam Westrick"
+    pdf: /papers/rc-trees.pdf
+    arxiv: https://arxiv.org/abs/2002.05129
+    location: Proceedings of the European Symposium on Algorithms (ESA), 2020.
 
 -
     title: "Near-Optimal Massively Parallel Graph Connectivity"
@@ -89,7 +125,7 @@
     title: "Theoretically Efficient Parallel Algorithms Can Be Fast and Scalable"
     authors: "Laxman Dhulipala, Guy Blelloch, and Julian Shun"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2018.
-    award: Best Paper Award, Invited to Special Issue
+    award: Best Paper Award<br>Invited to Special Issue
     url: https://arxiv.org/abs/1805.05208
     code: https://github.com/ParAlg/gbbs
 
