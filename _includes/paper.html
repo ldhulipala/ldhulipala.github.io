@@ -14,7 +14,10 @@
 {% if paper.code %}
 [<a href="{{ paper.code | replace: 'BASE', site.base }}">code</a>]
 {% endif %}
-{% if paper.pdf or paper.arxiv or paper.code %}
+{% if paper.press %}
+[<a href="{{ paper.press_url }}">{{paper.press}}</a>]
+{% endif %}
+{% if paper.pdf or paper.arxiv or paper.code or paper.press %}
 <br>
 {% endif %}
 

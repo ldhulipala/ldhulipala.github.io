@@ -30,6 +30,8 @@
     arxiv: https://arxiv.org/pdf/2009.11552
     pdf: http://www.vldb.org/pvldb/vol13/p3588-behnezhad.pdf
     location: Proceedings of the VLDB Endowment (PVLDB), 2020. (To be presented at VLDB'21)
+    press: Google AI Blog Post
+    press_url: https://ai.googleblog.com/2021/03/massively-parallel-graph-computation.html
 
 -
     title: "Exploring the Design Space of Static and Incremental Graph Connectivity Algorithms on GPUs"
