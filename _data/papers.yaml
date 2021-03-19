@@ -128,7 +128,8 @@
     authors: "Laxman Dhulipala, Guy Blelloch, and Julian Shun"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2018.
     award: Best Paper Award<br>Invited to Special Issue
-    url: https://arxiv.org/abs/1805.05208
+    pdf: /papers/gbbs_topc.pdf
+    arxiv: https://arxiv.org/abs/1805.05208
     code: https://github.com/ParAlg/gbbs
 
 -
