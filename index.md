@@ -6,13 +6,6 @@ title: Laxman Dhulipala
 I am a postdoc at MIT where I work with [Julian Shun][julian].
 I recently obtained my Ph.D. from Carnegie Mellon University, where I was advised by [Guy Blelloch][guy].
 
-<b>I am on the 2020-2021 academic job market!</b> Please feel free to
-reach out to me regarding tenure-track opportunities.
-* [CV](/docs/cv.pdf)
-* [Research Statement](/docs/research.pdf)
-* [Teaching Statement](/docs/teaching.pdf)
-* [Diversity Statement](/docs/diversity.pdf)
-
 My research revolves around designing high-performance parallel,
 dynamic, and streaming graph processing algorithms and systems, with a
 focus on both practical and theoretical efficiency.
@@ -22,15 +15,6 @@ My dissertation was awarded an [Honorable Mention in CMU's School of Computer Sc
 and was nominated by CMU for the ACM Dissertation Award.
 <br>
 <br>
-
-
-### Ph.D. Thesis
-
-<ul>
-{% for paper in site.data.thesis %}
-  {% include thesis.html %}
-{% endfor %}
-</ul>
 
 
 ### Publications

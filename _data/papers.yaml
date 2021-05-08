@@ -1,4 +1,19 @@
 -
+    title: "Hierarchical Agglomerative Graph Clustering in Nearly Linear Time"
+    authors: "Laxman Dhulipala, David Eisenstat, Jakub Łącki, Vahab Mirronki, and Jessica Shi"
+    location: To appear in Proceedings of the International Conference on Machine Learning (ICML), 2021.
+
+-
+    title: "The Processing-in-Memory Model"
+    authors: "Hongbo Kang, Phillip B. Gibbons, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, and Charles McGuffey"
+    location: To appear in Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2021.
+
+-
+    title: "LightNE: A Lightweight Graph Processing System for Network Embedding"
+    authors: "Jiezhong Qiu, Laxman Dhulipala, Jie Tang, Richard Peng, and Chi Wang"
+    location: To appear in Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021.
+
+-
     title: "Parallel Index-Based Structural Graph Clustering and Its Approximation"
     authors: "Tom Tseng, Laxman Dhulipala, and Julian Shun"
     arxiv: https://arxiv.org/abs/2012.11188
