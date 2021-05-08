@@ -16,6 +16,13 @@ and was nominated by CMU for the ACM Dissertation Award.
 <br>
 <br>
 
+### Ph.D. Thesis
+
+<ul>
+{% for paper in site.data.thesis %}
+  {% include thesis.html %}
+{% endfor %}
+</ul>
 
 ### Publications
 
