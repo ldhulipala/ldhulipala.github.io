@@ -106,6 +106,7 @@
     title: "Brief Announcement: ParlayLib – A Toolkit for Parallel Algorithms on Shared-Memory Multicore Machines"
     authors: "Guy E. Blelloch, Daniel Anderson, and Laxman Dhulipala"
     pdf: /papers/parlaylib.pdf
+    code: https://github.com/cmuparlay/parlaylib
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2020.
 
 -
