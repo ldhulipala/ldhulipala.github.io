@@ -1,37 +1,60 @@
 -
     title: "Hierarchical Agglomerative Graph Clustering in Nearly Linear Time"
     authors: "Laxman Dhulipala, David Eisenstat, Jakub Łącki, Vahab Mirronki, and Jessica Shi"
-    location: To appear in Proceedings of the International Conference on Machine Learning (ICML), 2021.
+    location: Proceedings of the International Conference on Machine Learning (ICML), 2021.
     pdf: http://proceedings.mlr.press/v139/dhulipala21a/dhulipala21a.pdf
     arxiv: https://arxiv.org/abs/2106.05610
+
+-
+    title: "Scalable Community Detection via Parallel Correlation Clustering"
+    authors: "Jessica Shi, Laxman Dhulipala, David Eisenstat, Jakub Łącki, and Vahab Mirrokni"
+    pdf: http://www.vldb.org/pvldb/vol14/p2305-shi.pdf
+    arxiv: https://arxiv.org/abs/2108.01731
+    location: Proceedings of the VLDB Endowment (PVLDB), 2021.
+    code: https://github.com/jeshi96/parallel-correlation-clustering
 
 -
     title: "Parallel Clique Counting and Peeling Algorithms"
     authors: "Jessica Shi, Laxman Dhulipala, and Julian Shun"
     arxiv: https://arxiv.org/abs/2002.10047
-    location: To appear in Proceedings of the SIAM Conference on Applied and Computational Discrete Algorithms (ACDA), 2021.
+    pdf: /papers/clique.pdf
+    code: https://github.com/ParAlg/gbbs/tree/master/benchmarks/CliqueCounting
+    location: Proceedings of the SIAM Conference on Applied and Computational Discrete Algorithms (ACDA), 2021.
 
 -
     title: "The Processing-in-Memory Model"
     authors: "Hongbo Kang, Phillip B. Gibbons, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, and Charles McGuffey"
-    location: To appear in Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2021.
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2021.
+    pdf: /papers/pim-mode.pdf
+
+-
+    title: "GeoGraph: A Framework for Graph Processing on Geometric Data"
+    authors: "Yiqiu Wang, Shangdi Yu, Laxman Dhulipala, Yan Gu, and Julian Shun"
+    location: ACM SIGOPS Operating Systems Review, 2021
+    pdf: /papers/geograph.pdf
+    code: https://github.com/ParAlg/GeoGraph
 
 -
     title: "LightNE: A Lightweight Graph Processing System for Network Embedding"
     authors: "Jiezhong Qiu, Laxman Dhulipala, Jie Tang, Richard Peng, and Chi Wang"
-    location: To appear in Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021.
+    location: Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021.
+    pdf: /papers/lightne.pdf
+    code: https://github.com/xptree/LightNE
 
 -
     title: "Parallel Index-Based Structural Graph Clustering and Its Approximation"
     authors: "Tom Tseng, Laxman Dhulipala, and Julian Shun"
     arxiv: https://arxiv.org/abs/2012.11188
-    location: To appear in Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021.
+    pdf: /papers/scan.pdf
+    code: https://github.com/ParAlg/gbbs/tree/master/benchmarks/SCAN/IndexBased
+    location: Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021.
 
 -
     title: "ConnectIt: A Framework for Static and Incremental Parallel Connectivity Algorithms"
     authors: "Laxman Dhulipala, Changwan Hong, and Julian Shun"
     arxiv: https://arxiv.org/abs/2008.03909
     pdf: http://www.vldb.org/pvldb/vol14/p653-dhulipala.pdf
+    code: https://github.com/ParAlg/gbbs/tree/master/benchmarks/Connectivity/ConnectIt
     location: Proceedings of the VLDB Endowment (PVLDB), 2021.
 
 -
