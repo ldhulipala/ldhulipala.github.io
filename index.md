@@ -3,16 +3,17 @@ layout: default
 title: Laxman Dhulipala
 ---
 
-I am a postdoc at MIT where I work with [Julian Shun][julian].
-I recently obtained my Ph.D. from Carnegie Mellon University, where I was advised by [Guy Blelloch][guy].
+I am currently a visiting faculty researcher at Google Research NYT
+where I work on the [Graph Mining][gm] team. I am very excited to be
+joining the Department of Computer Science at University of Maryland,
+College Park as an Assistant Professor in July'22. Previously, I was a
+postdoc at MIT working with [Julian Shun][julian]. I obtained my
+Ph.D. from Carnegie Mellon University, where I was advised by [Guy
+Blelloch][guy].
 
 My research revolves around designing high-performance parallel,
 dynamic, and streaming graph processing algorithms and systems, with a
 focus on both practical and theoretical efficiency.
-I am the recipient of the [Best Paper Award](https://spaa.acm.org/awards.html) at SPAA'18
-and the [Distinguished Paper Award](https://conf.researchr.org/home/pldi-2019) at PLDI'19.
-My dissertation was awarded an [Honorable Mention in CMU's School of Computer Science Dissertation Award](https://www.scs.cmu.edu/~scsfacts/dissertation.html)
-and was nominated by CMU for the ACM Dissertation Award.
 <br>
 <br>
 
@@ -51,3 +52,4 @@ and was nominated by CMU for the ACM Dissertation Award.
 
 [guy]: http://www.cs.cmu.edu/~guyb/
 [julian]: https://people.csail.mit.edu/jshun/
+[gm]: https://research.google/teams/graph-mining/
