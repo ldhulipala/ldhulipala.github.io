@@ -2,6 +2,8 @@
     title: "Hierarchical Agglomerative Graph Clustering in Nearly Linear Time"
     authors: "Laxman Dhulipala, David Eisenstat, Jakub Łącki, Vahab Mirronki, and Jessica Shi"
     location: To appear in Proceedings of the International Conference on Machine Learning (ICML), 2021.
+    pdf: http://proceedings.mlr.press/v139/dhulipala21a/dhulipala21a.pdf
+    arxiv: https://arxiv.org/abs/2106.05610
 
 -
     title: "Parallel Clique Counting and Peeling Algorithms"

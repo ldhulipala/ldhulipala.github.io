@@ -3,13 +3,13 @@ layout: default
 title: Laxman Dhulipala
 ---
 
-I am currently a visiting faculty researcher at Google Research NYT
-where I work on the [Graph Mining][gm] team. I am very excited to be
-joining the Department of Computer Science at University of Maryland,
-College Park as an Assistant Professor in July'22. Previously, I was a
-postdoc at MIT working with [Julian Shun][julian]. I obtained my
-Ph.D. from Carnegie Mellon University, where I was advised by [Guy
-Blelloch][guy].
+I am currently a visiting faculty researcher at Google Research New
+York where I work on the [Graph Mining][gm] team. I am very excited to
+be joining the Department of Computer Science at University of
+Maryland, College Park as an Assistant Professor in July'22.
+Previously, I was a postdoc at MIT working with [Julian Shun][julian].
+I obtained my Ph.D. from Carnegie Mellon University, where I was
+advised by [Guy Blelloch][guy].
 
 My research revolves around designing high-performance parallel,
 dynamic, and streaming graph processing algorithms and systems, with a
