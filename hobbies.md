@@ -3,21 +3,22 @@ layout: default
 title: Hobbies
 ---
 
-I enjoy biking, running, and hiking. I also enjoy playing the piano. I
-am currently learning Partimento and classical improvisation
-([John Mortensen](https://youtu.be/S8tM1I4jXPs)
-has some fantastic free content on Partimento and much more).
+I enjoy biking, running, and hiking. I also enjoy playing the piano.
 
-Here's some ongoing reading from during lockdown which I enjoyed:
+Here are some books I enjoyed lately:
 
-* Bullshit Jobs (David Graeber);
-* The Culture Series (Iain Banks);
-* Being Mortal (Atul Gawande)
-* The Rings of Saturn (W.G. Sebald)
-* How to Write a Thesis (Umberto Eco); interesting insights into how research was conducted before the internet, and the advice is still valuable. Best read when starting graduate school :-)
-* Bad Blood (John Carreyrou)
-* The Buried Giant (Kazuo Ishiguro)
-* Sea of Fertility 1--3 (Yukio Mishima); books 1 and 2 are incredible, need to seriously attempt the last book
+* Making of the Atomic Bomb
+* Jeeves and the King of Clubs (Schott; impossible to replicate Wodehouse but this was surprisingly good)
+* A Confederacy of Dunces (Toole)
+* Klara and the Sun (Ishiguro)
+* Evolution (Baxter)
+* The Ministry for the Future (Robinson)
+* Blood Music (Bear)
+* Being Mortal (Gawande)
+* The Rings of Saturn (Sebald)
+* How to Write a Thesis (Eco); interesting insights into how research was conducted before the internet, and the advice is still valuable. Best read when starting graduate school :-)
+* The Buried Giant (Ishiguro)
+* Sea of Fertility (Yukio Mishima); still haven't read the fourth book
 * Valley of Genius (Adam Fischer)
 
 Consider donating to the <a href="https://www.biologicaldiversity.org/">Center for Biological Diversity</a>
