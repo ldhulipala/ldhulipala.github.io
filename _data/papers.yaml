@@ -1,4 +1,32 @@
 -
+    title: "Theoretically and Practically Efficient Parallel Nucleus Decomposition"
+    authors: "Jessica Shi, Laxman Dhulipala, and Julian Shun"
+    location: To appear in Proceedings of the VLDB Endowment, 2022.
+    pdf: /papers/nucleusdecomp.pdf
+    arxiv: https://arxiv.org/abs/2111.10980
+
+-
+    title: "ParChain: A Framework for Parallel Hierarchical Agglomerative Clustering using Nearest-Neighbor Chain"
+    authors: "Shangdi Yu, Yiqiu Wang, Yan Gu, Laxman Dhulipala, and Julian Shun"
+    location: To appear in Proceedings of the VLDB Endowment, 2022.
+    pdf: /papers/parchain.pdf
+    arxiv: https://arxiv.org/abs/2106.04727
+
+-
+    title: "POSTER: The Problem-Based Benchmark Suite (PBBS), V2"
+    authors: "Daniel Anderson, Guy E. Blelloch, Laxman Dhulipala, Magdalen Dobson, and Yihan Sun"
+    location: To appear in Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2022.
+    pdf: /papers/pbbsv2.pdf
+    code: https://github.com/cmuparlay/pbbsbench
+
+-
+    title: "POSTER: ParGeo: A Library for Parallel Computational Geometry"
+    authors: "Jessica Shi, Laxman Dhulipala, and Julian Shun"
+    location: To appear in Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2022.
+    pdf: /papers/pargeo.pdf
+    code: https://github.com/ParAlg/ParGeo
+
+-
     title: "Hierarchical Agglomerative Graph Clustering in Nearly Linear Time"
     authors: "Laxman Dhulipala, David Eisenstat, Jakub Łącki, Vahab Mirronki, and Jessica Shi"
     location: Proceedings of the International Conference on Machine Learning (ICML), 2021.
