@@ -5,7 +5,9 @@ title: Hobbies
 
 I enjoy biking, running, and hiking. I also enjoy playing the piano.
 
-Here are some books that I read and enjoyed recently:
+
+Here are some books that I read and enjoyed recently. If you have any
+recommendations please let me know!
 
 * If This is a Man / The Truce
 * Defying Hitler: A Memoir
@@ -13,7 +15,6 @@ Here are some books that I read and enjoyed recently:
 * Making of the Atomic Bomb
 * A Confederacy of Dunces
 * Klara and the Sun
-* Evolution
 * The Ministry for the Future
 * Blood Music
 * Being Mortal
@@ -25,9 +26,7 @@ Consider donating to the <a href="https://www.biologicaldiversity.org/">Center f
 
 My family includes a wonderful dog, Pippin:
 ![pippin](/assets/pippin.jpg){:class="img-responsive"}
-
 ![montebello](/assets/montebello.jpg){:class="img-responsive"}
-
-
+![montebello_2](/assets/montebello_2.jpg){:class="img-responsive"}
 
 
