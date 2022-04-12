@@ -1,7 +1,7 @@
 -
     title: "PaC-trees: Supporting Parallel and Compressed Purely-Functional Collections"
     authors: "Laxman Dhulipala, Guy E. Blelloch, Yan Gu, and Yihan Sun"
-    location: Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
+    location: To appear in Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
     pdf: /papers/cpam.pdf
     code: https://github.com/ParAlg/CPAM
 
@@ -22,14 +22,14 @@
 -
     title: "POSTER: The Problem-Based Benchmark Suite (PBBS), V2"
     authors: "Daniel Anderson, Guy E. Blelloch, Laxman Dhulipala, Magdalen Dobson, and Yihan Sun"
-    location: To appear in Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2022.
+    location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2022.
     pdf: /papers/pbbsv2.pdf
     code: https://github.com/cmuparlay/pbbsbench
 
 -
     title: "POSTER: ParGeo: A Library for Parallel Computational Geometry"
-    authors: "Jessica Shi, Laxman Dhulipala, and Julian Shun"
-    location: To appear in Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2022.
+    authors: "Yiqiu Wang, Shangdi Yu, Laxman Dhulipala, Yan Gu, and Julian Shun"
+    location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2022.
     pdf: /papers/pargeo.pdf
     code: https://github.com/ParAlg/ParGeo
 
