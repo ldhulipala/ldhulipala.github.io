@@ -3,12 +3,11 @@ layout: default
 title: Hobbies
 ---
 
-I enjoy biking, running, and hiking. I also enjoy playing the piano.
+I enjoy biking, running, and hiking. When I'm at home, I enjoy reading, and playing the piano and guitar.
 
+Here are some books that I read and enjoyed recently.
 
-Here are some books that I read and enjoyed recently. If you have any
-recommendations please let me know!
-
+* Eichmann in Jerusalem
 * If This is a Man / The Truce
 * Defying Hitler: A Memoir
 * Re: Colonised Planet 5, Shikasta
@@ -19,7 +18,6 @@ recommendations please let me know!
 * Blood Music
 * Being Mortal
 * The Rings of Saturn
-* How to Write a Thesis; interesting insights into how research was conducted before the internet, and the advice is still valuable. Best read when starting graduate school :-)
 * The Buried Giant 
 
 Consider donating to the <a href="https://www.biologicaldiversity.org/">Center for Biological Diversity</a>
