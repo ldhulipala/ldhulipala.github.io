@@ -5,10 +5,10 @@ title: Laxman Dhulipala
 
 I am an Assistant Professor in the Department of Computer Science at
 the University of Maryland, College Park. I am also a visiting faculty
-researcher at Google Research (New York) where I work on the [Graph
-Mining][gm] team. Previously, I was a postdoc at MIT working with
-[Julian Shun][julian]. I obtained my Ph.D. from Carnegie Mellon
-University, where I was advised by [Guy Blelloch][guy].
+researcher at Google Research where I work on the [Graph Mining][gm]
+team. Previously, I was a postdoc at MIT working with [Julian
+Shun][julian]. I obtained my Ph.D. from Carnegie Mellon University,
+where I was advised by [Guy Blelloch][guy].
 
 <b>I am looking for motivated undergraduate/graduate students interested
 in working on the theory and practice of parallel algorithms.</b> My
