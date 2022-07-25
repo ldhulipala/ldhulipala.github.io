@@ -13,7 +13,7 @@ where I was advised by [Guy Blelloch][guy].
 <b>I am looking for motivated undergraduate/graduate students interested
 in working on the theory and practice of parallel algorithms.</b> My
 current research interests are on parallel clustering (graphs and
-spatial data), and effcient parallel graph processing for static,
+spatial data), and efficient parallel graph processing for static,
 streaming, and dynamic graphs. Please send me an <b>e-mail</b> if you
 are interested in working with me.
 <br>

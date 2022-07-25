@@ -3,9 +3,11 @@ layout: default
 title: Hobbies
 ---
 
-I enjoy biking, running, and hiking. When I'm at home, I enjoy reading, and playing the piano and guitar.
+I enjoy biking, running, and hiking. I also like to read, and play the piano and guitar.
 
-Here are some books that I read and enjoyed recently.
+Here are some books I enjoyed recently. I mostly read fiction growing
+up, but have been enjoying non-fiction / history / essays lately;
+please let me know if you have some recommendations!
 
 * Eichmann in Jerusalem
 * If This is a Man / The Truce
