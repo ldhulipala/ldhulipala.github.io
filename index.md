@@ -19,19 +19,20 @@ are interested in working with me.
 <br>
 <br>
 
-### Ph.D. Thesis
-
-<ul>
-{% for paper in site.data.thesis %}
-  {% include thesis.html %}
-{% endfor %}
-</ul>
-
 ### Publications
 
 <ul>
 {% for paper in site.data.papers %}
   {% include paper.html %}
+{% endfor %}
+</ul>
+
+
+### Ph.D. Thesis
+
+<ul>
+{% for paper in site.data.thesis %}
+  {% include thesis.html %}
 {% endfor %}
 </ul>
 
@@ -43,7 +44,7 @@ are interested in working with me.
 {% endfor %}
 </ul>
 
-### Proposals and Older Theses
+### Older Theses/Proposals
 
 <ul>
 {% for paper in site.data.other %}
