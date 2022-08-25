@@ -1,4 +1,10 @@
 -
+    title: "ParGeo: A Library for Parallel Computational Geometry"
+    authors: "Yiqiu Wang, Rahul Yesantharao, Shangdi Yu, Laxman Dhulipala, Yan Gu, and Julian Shun"
+    location: To appear in Proceedings of the European Symposium on Algorithms (ESA), 2022.
+    arxiv: https://arxiv.org/abs/2207.01834
+
+-
     title: "Parallel Batch-Dynamic Algorithms for k-Core Decomposition and Related Graph Problems"
     authors: "Quanquan Liu, Jessica Shi, Shangdi Yu, Laxman Dhulipala, and Julian Shun"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2022.
