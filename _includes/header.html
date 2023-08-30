@@ -3,33 +3,21 @@
         <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
         <h1 class="view"><a href="/">Laxman Dhulipala</a></h1>
         <!-- <img src="/assets/laxman_headshot.jpg" class="headshot"> -->
-        <img src="/assets/headshot.jpg" class="headshot">
+        <img src="{{ '/assets/headshot.jpg' | prepend: site.baseurl }}" class="headshot">
         </br>
         </br>
         <b>research interests</b>
         <p>
-         high-performance graph algorithms, provably-efficient graph
+         scalable parallel algorithms, parallel graph
          processing for static, dynamic, and streaming graphs.
-       </p>
+        </p>
         <b>contact</b>
          <p>
           email: laxman [at] umd.edu</br>
-          <a href="docs/cv.pdf">CV</a> --
+          <a href="{{ '/docs/cv.pdf' | prepend: site.baseurl }}" >CV</a> --
           <a href="https://github.com/ldhulipala">GitHub</a> --
-          <a href="hobbies">Hobbies</a>
+          <a href="{{ '/hobbies.html' | prepend: site.baseurl }}">Hobbies</a>
         </p>
         <hr/>
-
-
-        <h3>News</h3>
-        <ul>
-          <li> Workshop on <a href="https://paralg.github.io/largescalegraphs/">Large Scale Graph Processing</a> at SPAA'22 (July 11th).</li>
-          <li> I joined <a href="https://www.cs.umd.edu/">Department of Computer Science at UMD</a> as an Assistant Professor in July! </li>
-          <li> Joined the Graph Mining team at Google Research NYC as
-          a visiting researcher (June'21). </li>
-          <li> <a
-          href="https://ai.googleblog.com/2021/03/massively-parallel-graph-computation.html">Google
-          AI Blog Post</a> on our work on the AMPC model. </li>
-        </ul>
 
       </header>

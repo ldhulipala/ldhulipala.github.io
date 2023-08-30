@@ -1,7 +1,51 @@
 -
+    title: "TeraHAC: Hierarchical Agglomerative Clustering of Trillion-Edge Graphs"
+    authors: "Laxman Dhulipala, Jason Lee, Jakub Łącki, and Vahab Mirrokni"
+    location: To appear in SIGMOD 2024.
+    arxiv: https://arxiv.org/abs/2308.03578
+
+-
+    title: "PIM-trie: A Skew-resistant Trie for Processing-in-Memory. "
+    authors: "Hongbo Kang, Yiwei Zhao, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Charles McGuffey and Phillip B. Gibbons"
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2023.
+    pdf: /papers/pimtrie.pdf
+
+-
+    title: "High-Performance and Flexible Parallel Algorithms for Semisort and Related Problems"
+    authors: "Xiaojun Dong, Yunshu Wu, Zhongqi Wang, Laxman Dhulipala, Yan Gu, and Yihan Sun"
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2023.
+    arxiv: https://arxiv.org/abs/2304.10078
+    pdf: /papers/semisort.pdf
+
+-
+    title: "Towards Lightweight and Automated Representation Learning System for Networks."
+    authors: "Yuyang Xie, Jiezhong Qiu, Laxman Dhulipala, Wenjian Yu, Jie Tang, Richard Peng, and Chi Wang"
+    location: IEEE Transactions on Knowledge and Data Engineering, 2023.
+    arxiv: https://arxiv.org/abs/2302.07084
+
+-
+    title: "Hierarchical Agglomerative Graph Clustering in Poly-Logarithmic Depth"
+    authors: "Laxman Dhulipala, David Eisenstat, Jakub Łącki, Vahab Mirronki, and Jessica Shi"
+    location: Conference on Neural Information Processing Systems (NeurIPS), 2022.
+    arxiv: https://arxiv.org/abs/2206.11654
+
+-
+    title: "PIM-tree: A Skew-resistant Index for Processing-in-Memory"
+    authors: "Hongbo Kang, Yiwei Zhao, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Charles McGuffey and Phillip B. Gibbons"
+    location: Proceedings of the VLDB Endowment, 2022.
+    award: Best Paper Runner Up
+    arxiv: https://arxiv.org/abs/2211.10516
+
+-
+    title: "Differential Privacy from Locally Adjustable Graph Algorithms: k-Core Decomposition, Low Out-Degree Ordering, and Densest Subgraphs"
+    authors: "Laxman Dhulipala, Quanquan C. Liu, Sofya Raskhodnikova, Jessica Shi, Julian Shun, and Shangdi Yu"
+    location: Proceedings of the IEEE Symposium on Foundations of Computer Science (FOCS), 2022.
+    arxiv: https://arxiv.org/abs/2211.10887
+
+-
     title: "ParGeo: A Library for Parallel Computational Geometry"
     authors: "Yiqiu Wang, Rahul Yesantharao, Shangdi Yu, Laxman Dhulipala, Yan Gu, and Julian Shun"
-    location: To appear in Proceedings of the European Symposium on Algorithms (ESA), 2022.
+    location: Proceedings of the European Symposium on Algorithms (ESA), 2022.
     arxiv: https://arxiv.org/abs/2207.01834
 
 -
@@ -12,16 +56,23 @@
     pdf: /papers/batchdynkcore.pdf
 
 -
+    title: "Theoretically and Practically Efficient Parallel Nucleus Decomposition"
+    authors: "Jessica Shi, Laxman Dhulipala, and Julian Shun"
+    location: Proceedings of the VLDB Endowment, 2022.
+    pdf: /papers/nucleusdecomp.pdf
+    arxiv: https://arxiv.org/abs/2111.10980
+
+-
     title: "PaC-trees: Supporting Parallel and Compressed Purely-Functional Collections"
     authors: "Laxman Dhulipala, Guy E. Blelloch, Yan Gu, and Yihan Sun"
-    location: To appear in Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
+    location: ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
     pdf: /papers/cpam.pdf
     code: https://github.com/ParAlg/CPAM
 
 -
     title: "Theoretically and Practically Efficient Parallel Nucleus Decomposition"
     authors: "Jessica Shi, Laxman Dhulipala, and Julian Shun"
-    location: To appear in Proceedings of the VLDB Endowment, 2022.
+    location: Proceedings of the VLDB Endowment, 2022.
     pdf: /papers/nucleusdecomp.pdf
     arxiv: https://arxiv.org/abs/2111.10980
 

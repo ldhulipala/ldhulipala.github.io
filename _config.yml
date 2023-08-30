@@ -1,6 +1,8 @@
 name: Laxman Dhulipala
 email: ldhulipa@cs.cmu.edu
 url: http://ldhulipala.github.io
+baseurl: /~laxman
+#baseurl: ""
 
 markdown: kramdown
 kramdown:
