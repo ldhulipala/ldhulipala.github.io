@@ -1,4 +1,33 @@
 -
+    title: "Scaling Graph-Based ANNS Algorithms to Billion-Size Datasets: A Comparative Analysis"
+    authors: "Magdalen Dobson, Zheqi Shen, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Harsha Vardhan Simhadri, and Yihan Sun"
+    location: To appear in PPoPP 2024.
+    arxiv: https://arxiv.org/abs/2305.04359
+
+-
+    title: "Parallel Integer Sort: Theory and Practice"
+    authors: "Xiaojun Dong, Laxman Dhulipala, Yan Gu, and Yihan Sun"
+    location: To appear in PPoPP 2024.
+
+-
+    title: "TeraHAC: Hierarchical Agglomerative Clustering of Trillion-Edge Graphs"
+    authors: "Laxman Dhulipala, Jason Lee, Jakub Łącki, and Vahab Mirrokni"
+    location: To appear in SIGMOD 2024.
+    arxiv: https://arxiv.org/abs/2308.03578
+
+-
+    title: "Practical Parallel Algorithms for Near-Optimal Densest Subgraphs on Massive Graphs"
+    authors: "Pattara Sukprasert, Quanquan C. Liu, Laxman Dhulipala, and Julian Shun"
+    location: To appear in ALENEX 2024.
+    arxiv: https://arxiv.org/abs/2311.04333
+
+-
+    title: "Fast, Parallel, and Cache-Friendly Suffix Array Construction"
+    authors: "Jamshed Khan, Tobias Rubel, Laxman Dhulipala, Erin K. Molloy, and Rob Patro:"
+    location: Workshop on Algorithms in Bioinformatics (WABI), 2023.
+    pdf: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.16
+
+-
     title: "TeraHAC: Hierarchical Agglomerative Clustering of Trillion-Edge Graphs"
     authors: "Laxman Dhulipala, Jason Lee, Jakub Łącki, and Vahab Mirrokni"
     location: To appear in SIGMOD 2024.
