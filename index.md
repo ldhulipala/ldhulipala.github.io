@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Laxman Dhulipala
+redirect_to: "https://cs.umd.edu/~laxman/"
 ---
 
 I am an Assistant Professor in the Department of Computer Science at
