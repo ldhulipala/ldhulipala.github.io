@@ -28,12 +28,6 @@
     pdf: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.16
 
 -
-    title: "TeraHAC: Hierarchical Agglomerative Clustering of Trillion-Edge Graphs"
-    authors: "Laxman Dhulipala, Jason Lee, Jakub Łącki, and Vahab Mirrokni"
-    location: To appear in SIGMOD 2024.
-    arxiv: https://arxiv.org/abs/2308.03578
-
--
     title: "PIM-trie: A Skew-resistant Trie for Processing-in-Memory. "
     authors: "Hongbo Kang, Yiwei Zhao, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Charles McGuffey and Phillip B. Gibbons"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2023.
