@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Laxman Dhulipala
-redirect_to: "https://cs.umd.edu/~laxman/"
+#redirect_to: "https://cs.umd.edu/~laxman/"
 ---
 
 I am an Assistant Professor in the Department of Computer Science at
@@ -20,6 +20,7 @@ hardware and exploring these models theoretically and practically.
 <br>
 
 ### Teaching
+- S24: [CMSC858N, Scalable Parallel Algorithms and Data Structures][858NS24]
 - F23: [CMSC451: Design and Analysis of Computer Algorithms][451F23]
 - S23: [CMSC858N, Scalable Parallel Algorithms and Data Structures][858NS23]
 - F22: [CMSC451: Design and Analysis of Computer Algorithms](https://www.cs.umd.edu/class/fall2022/cmsc451/)
@@ -63,3 +64,4 @@ hardware and exploring these models theoretically and practically.
 [gm]: https://research.google/teams/graph-mining/
 [451F23]: {{ '/CMSC451-F23.html' | prepend: site.baseurl }}
 [858NS23]: {{ '/CMSC858N-S23.html' | prepend: site.baseurl }}
+[858NS24]: {{ '/paralg-s24.html' | prepend: site.baseurl }}

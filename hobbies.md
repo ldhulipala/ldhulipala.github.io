@@ -3,18 +3,19 @@ layout: default
 title: Hobbies
 ---
 
-I like to bike, run, hike, read, and play the piano. 
+I like to bike, run, hike, garden, read, and play the piano. 
 
 Here are recent books I read and enjoyed. Let me know if you have recommendations!
 
-* Perdido Street Station
+* The Fifth Head of Cerberus
+* The Dying Earth (Vance)
+* The Third Reich Trilogy
+* Travels in Siberia
 * Eichmann in Jerusalem
 * If This is a Man / The Truce
 * Defying Hitler: A Memoir
 * A Confederacy of Dunces
 * Klara and the Sun
-* The Rings of Saturn
-* The Buried Giant 
 
 Consider donating to the <a href="https://www.biologicaldiversity.org/">Center for Biological Diversity</a>
 

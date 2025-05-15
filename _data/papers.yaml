@@ -1,24 +1,92 @@
 -
+    title: "Towards Scalable and Practical Batch-Dynamic Connectivity"
+    authors: "Quinten De Man, Laxman Dhulipala, Adam Karczmarz, Jakub Łącki, Julian Shun, Zhongqi Wang"
+    location: To appear at VLDB'25
+    arxiv: https://arxiv.org/pdf/2411.11781
+
+-
+    title: "The ParClusterers Benchmark Suite (PCBS): A Fine-Grained Analysis of Scalable Graph Clustering"
+    authors: "Shangdi Yu, Jessica Shi, Jamison Meindl, David Eisenstat, Xiaoen Ju, Sasan Tavakkol, Laxman Dhulipala, Jakub Łącki, Vahab Mirrokni, Julian Shun"
+    location: To appear at VLDB'25
+    arxiv: https://arxiv.org/pdf/2411.10290
+
+-
+    title: "DynHAC: Fully Dynamic Approximate Hierarchical Agglomerative Clustering"
+    authors: "Shangdi Yu, Laxman Dhulipala, Jakub Łącki, Nikos Parotsidis"
+    location: Proceedings of the SIAM International Conference on Data Mining (SDM), 2025
+    pdf: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.24
+    award: Best Paper Award
+
+-
+    title: "Techniques for Practical Parallel BFS and SSSP"
+    authors: "Quinten De Man, Richard Wen, Laxman Dhulipala"
+    location: Proceedings of the 1st FastCode Programming Challenge, 2025
+    pdf: https://dl.acm.org/doi/10.1145/3711708.3723448
+
+-
+    title: "MUVERA: Multi-Vector Retrieval via Fixed Dimensional Encoding"
+    authors: "Rajesh Jayaram, Laxman Dhulipala, Majid Hadian, Jason D Lee, Vahab Mirrokni"
+    location: Conference on Neural Information Processing Systems (NeurIPS), 2024.
+    arxiv: https://arxiv.org/abs/2405.19504
+
+-
+    title: "Efficient Centroid-Linkage Clustering"
+    authors: "MohammadHossein Bateni, Laxman Dhulipala, Willem Fletcher, Kishen N Gowda, D Ellis Hershkowitz, Rajesh Jayaram, Jakub Łącki"
+    location: Conference on Neural Information Processing Systems (NeurIPS), 2024.
+    arxiv: https://arxiv.org/abs/2406.05066
+
+-
+    title: "Parallel Set Cover and Hypergraph Matching via Uniform Random Sampling"
+    authors: "Laxman Dhulipala, Michael Dinitz, Jakub Łącki, Slobodan Mitrovic"
+    location: Proceedings of the International Symposium on Distributed Computing (DISC 2024)
+    arxiv: https://arxiv.org/abs/2408.13362
+
+-
+    title: "BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers"
+    authors: "Brian Wheatman, Xiaojun Dong, Zheqi Shen, Laxman Dhulipala, Jakub Łącki, Prashant Pandey, Helen Xu"
+    location: Proceedings of the VLDB Endowment, 2024.
+    arxiv: https://arxiv.org/pdf/2405.11671
+
+-
+    title: "Optimal Parallel Algorithms for Dendrogram Computation and Single-Linkage Clustering"
+    authors: "Laxman Dhulipala, Xiaojun Dong, Kishen Gowda, and Yan Gu"
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2024.
+    arxiv: https://arxiv.org/abs/2404.19019
+
+-
+    title: "It's Hard to HAC with Average Linkage!"
+    authors: "Mohammad Hossein Bateni, Laxman Dhulipala, Kishen Gowda, D Ellis Hershkowitz, Rajesh Jarayam and Jakub Łącki"
+    location: International Colloquium on Automata, Languages, and Programming (ICALP)
+    arxiv: https://arxiv.org/abs/2404.14730
+
+-
     title: "Scaling Graph-Based ANNS Algorithms to Billion-Size Datasets: A Comparative Analysis"
     authors: "Magdalen Dobson, Zheqi Shen, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Harsha Vardhan Simhadri, and Yihan Sun"
-    location: To appear in PPoPP 2024.
+    location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2024.
     arxiv: https://arxiv.org/abs/2305.04359
 
 -
     title: "Parallel Integer Sort: Theory and Practice"
     authors: "Xiaojun Dong, Laxman Dhulipala, Yan Gu, and Yihan Sun"
-    location: To appear in PPoPP 2024.
+    location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2024.
+    arxiv: https://arxiv.org/abs/2401.00710
 
 -
     title: "TeraHAC: Hierarchical Agglomerative Clustering of Trillion-Edge Graphs"
     authors: "Laxman Dhulipala, Jason Lee, Jakub Łącki, and Vahab Mirrokni"
-    location: To appear in SIGMOD 2024.
+    location: Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024.
     arxiv: https://arxiv.org/abs/2308.03578
+
+-
+    title: "Parallel Algorithms for Hierarchical Nucleus Decomposition"
+    authors: "Jessica Shi, Laxman Dhulipala, and Julian Shun"
+    location: Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024.
+    arxiv: https://arxiv.org/abs/2306.08623
 
 -
     title: "Practical Parallel Algorithms for Near-Optimal Densest Subgraphs on Massive Graphs"
     authors: "Pattara Sukprasert, Quanquan C. Liu, Laxman Dhulipala, and Julian Shun"
-    location: To appear in ALENEX 2024.
+    location: Proceedings of the SIAM Meeting on Algorithm Engineering and Experiments (ALENEX), 2024.
     arxiv: https://arxiv.org/abs/2311.04333
 
 -
@@ -31,14 +99,14 @@
     title: "PIM-trie: A Skew-resistant Trie for Processing-in-Memory. "
     authors: "Hongbo Kang, Yiwei Zhao, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Charles McGuffey and Phillip B. Gibbons"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2023.
-    pdf: /papers/pimtrie.pdf
+    pdf: /~laxman/papers/pimtrie.pdf
 
 -
     title: "High-Performance and Flexible Parallel Algorithms for Semisort and Related Problems"
     authors: "Xiaojun Dong, Yunshu Wu, Zhongqi Wang, Laxman Dhulipala, Yan Gu, and Yihan Sun"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2023.
     arxiv: https://arxiv.org/abs/2304.10078
-    pdf: /papers/semisort.pdf
+    pdf: /~laxman/papers/semisort.pdf
 
 -
     title: "Towards Lightweight and Automated Representation Learning System for Networks."
@@ -76,48 +144,41 @@
     authors: "Quanquan Liu, Jessica Shi, Shangdi Yu, Laxman Dhulipala, and Julian Shun"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2022.
     award: Best Paper Award
-    pdf: /papers/batchdynkcore.pdf
+    pdf: /~laxman/papers/batchdynkcore.pdf
 
 -
     title: "Theoretically and Practically Efficient Parallel Nucleus Decomposition"
     authors: "Jessica Shi, Laxman Dhulipala, and Julian Shun"
     location: Proceedings of the VLDB Endowment, 2022.
-    pdf: /papers/nucleusdecomp.pdf
+    pdf: /~laxman/papers/nucleusdecomp.pdf
     arxiv: https://arxiv.org/abs/2111.10980
 
 -
     title: "PaC-trees: Supporting Parallel and Compressed Purely-Functional Collections"
     authors: "Laxman Dhulipala, Guy E. Blelloch, Yan Gu, and Yihan Sun"
     location: ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2022.
-    pdf: /papers/cpam.pdf
+    pdf: /~laxman/papers/cpam.pdf
     code: https://github.com/ParAlg/CPAM
-
--
-    title: "Theoretically and Practically Efficient Parallel Nucleus Decomposition"
-    authors: "Jessica Shi, Laxman Dhulipala, and Julian Shun"
-    location: Proceedings of the VLDB Endowment, 2022.
-    pdf: /papers/nucleusdecomp.pdf
-    arxiv: https://arxiv.org/abs/2111.10980
 
 -
     title: "ParChain: A Framework for Parallel Hierarchical Agglomerative Clustering using Nearest-Neighbor Chain"
     authors: "Shangdi Yu, Yiqiu Wang, Yan Gu, Laxman Dhulipala, and Julian Shun"
     location: To appear in Proceedings of the VLDB Endowment, 2022.
-    pdf: /papers/parchain.pdf
+    pdf: /~laxman/papers/parchain.pdf
     arxiv: https://arxiv.org/abs/2106.04727
 
 -
     title: "POSTER: The Problem-Based Benchmark Suite (PBBS), V2"
     authors: "Daniel Anderson, Guy E. Blelloch, Laxman Dhulipala, Magdalen Dobson, and Yihan Sun"
     location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2022.
-    pdf: /papers/pbbsv2.pdf
+    pdf: /~laxman/papers/pbbsv2.pdf
     code: https://github.com/cmuparlay/pbbsbench
 
 -
     title: "POSTER: ParGeo: A Library for Parallel Computational Geometry"
     authors: "Yiqiu Wang, Shangdi Yu, Laxman Dhulipala, Yan Gu, and Julian Shun"
     location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2022.
-    pdf: /papers/pargeo.pdf
+    pdf: /~laxman/papers/pargeo.pdf
     code: https://github.com/ParAlg/ParGeo
 
 -
@@ -139,7 +200,7 @@
     title: "Parallel Clique Counting and Peeling Algorithms"
     authors: "Jessica Shi, Laxman Dhulipala, and Julian Shun"
     arxiv: https://arxiv.org/abs/2002.10047
-    pdf: /papers/clique.pdf
+    pdf: /~laxman/papers/clique.pdf
     code: https://github.com/ParAlg/gbbs/tree/master/benchmarks/CliqueCounting
     location: Proceedings of the SIAM Conference on Applied and Computational Discrete Algorithms (ACDA), 2021.
 
@@ -147,27 +208,27 @@
     title: "The Processing-in-Memory Model"
     authors: "Hongbo Kang, Phillip B. Gibbons, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, and Charles McGuffey"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2021.
-    pdf: /papers/pim-mode.pdf
+    pdf: /~laxman/papers/pim-mode.pdf
 
 -
     title: "GeoGraph: A Framework for Graph Processing on Geometric Data"
     authors: "Yiqiu Wang, Shangdi Yu, Laxman Dhulipala, Yan Gu, and Julian Shun"
     location: ACM SIGOPS Operating Systems Review, 2021
-    pdf: /papers/geograph.pdf
+    pdf: /~laxman/papers/geograph.pdf
     code: https://github.com/ParAlg/GeoGraph
 
 -
     title: "LightNE: A Lightweight Graph Processing System for Network Embedding"
     authors: "Jiezhong Qiu, Laxman Dhulipala, Jie Tang, Richard Peng, and Chi Wang"
     location: Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021.
-    pdf: /papers/lightne.pdf
+    pdf: /~laxman/papers/lightne.pdf
     code: https://github.com/xptree/LightNE
 
 -
     title: "Parallel Index-Based Structural Graph Clustering and Its Approximation"
     authors: "Tom Tseng, Laxman Dhulipala, and Julian Shun"
     arxiv: https://arxiv.org/abs/2012.11188
-    pdf: /papers/scan.pdf
+    pdf: /~laxman/papers/scan.pdf
     code: https://github.com/ParAlg/gbbs/tree/master/benchmarks/SCAN/IndexBased
     location: Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021.
 
@@ -182,14 +243,14 @@
 -
     title: "Parallel Batch-Dynamic k-Clique Counting"
     authors: "Laxman Dhulipala, Quanquan Liu, Julian Shun, and Shangdi Yu"
-    pdf: /papers/dynamic-clique.pdf
+    pdf: /~laxman/papers/dynamic-clique.pdf
     arxiv: https://arxiv.org/abs/2003.13585
     location: Proceedings of the SIAM Symposium on Algorithmic Principles of Computer Systems (APOCS), 2021.
 
 -
     title: "The Read-Only Semi-External Model"
     authors: "Guy Blelloch, Laxman Dhulipala, Phillip Gibbons, Yan Gu, Charles McGuffey, and Julian Shun"
-    pdf: /papers/ROSE.pdf
+    pdf: /~laxman/papers/ROSE.pdf
     location: Proceedings of the SIAM Symposium on Algorithmic Principles of Computer Systems (APOCS), 2021.
 
 -
@@ -205,7 +266,7 @@
     title: "Exploring the Design Space of Static and Incremental Graph Connectivity Algorithms on GPUs"
     authors: "Changwan Hong, Laxman Dhulipala, and Julian Shun"
     arxiv: https://arxiv.org/abs/2008.11839
-    pdf: /papers/GCONN.pdf
+    pdf: /~laxman/papers/GCONN.pdf
     location: Proceedings of International Conference on Parallel Architectures and Compilation Techniques (PACT), 2020.
 
 -
@@ -220,14 +281,14 @@
 -
     title: "The Graph Based Benchmark Suite (GBBS)"
     authors: "Laxman Dhulipala, Jessica Shi, Tom Tseng, Guy E. Blelloch, and Julian Shun"
-    pdf: /papers/gbbs.pdf
+    pdf: /~laxman/papers/gbbs.pdf
     location: Proceedings of the Joint Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA), 2020
     code: https://github.com/ParAlg/gbbs
 
 -
     title: "Brief Announcement: ParlayLib – A Toolkit for Parallel Algorithms on Shared-Memory Multicore Machines"
     authors: "Guy E. Blelloch, Daniel Anderson, and Laxman Dhulipala"
-    pdf: /papers/parlaylib.pdf
+    pdf: /~laxman/papers/parlaylib.pdf
     code: https://github.com/cmuparlay/parlaylib
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2020.
 
@@ -249,7 +310,7 @@
 -
     title: "Parallel Batch-Dynamic Trees via Change Propagation"
     authors: "Umut Acar, Daniel Anderson, Guy Blelloch, Laxman Dhulipala, and Sam Westrick"
-    pdf: /papers/rc-trees.pdf
+    pdf: /~laxman/papers/rc-trees.pdf
     arxiv: https://arxiv.org/abs/2002.05129
     location: Proceedings of the European Symposium on Algorithms (ESA), 2020.
 
@@ -297,7 +358,7 @@
     authors: "Laxman Dhulipala, Guy Blelloch, and Julian Shun"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2018.
     award: Best Paper Award<br>Invited to Special Issue
-    pdf: /papers/gbbs_topc.pdf
+    pdf: /~laxman/papers/gbbs_topc.pdf
     arxiv: https://arxiv.org/abs/1805.05208
     code: https://github.com/ParAlg/gbbs
 
@@ -305,28 +366,28 @@
     title: "Julienne: A Framework for Parallel Graph Algorithms using Work-efficient Bucketing"
     authors: "Laxman Dhulipala, Guy Blelloch, and Julian Shun"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2017.
-    pdf: /papers/Bucketing.pdf
+    pdf: /~laxman/papers/Bucketing.pdf
     code: https://github.com/jshun/ligra/tree/master/apps/bucketing
 
 -
     title: "Compressing Graphs and Indexes with Recursive Graph Bisection"
     authors: "Laxman Dhulipala, Igor Kabiljo, Brian Karrer, Giuseppe Ottaviano, Sergey Pupyrev, and Alon Shalita"
     location: Proceedings of the ACM Conference on Knowledge Discovery and Data Mining (KDD), 2016.
-    pdf: /papers/RecursiveBisection.pdf
+    pdf: /~laxman/papers/RecursiveBisection.pdf
     arxiv: https://arxiv.org/abs/1602.08820
 
 -
     title: "Smaller and Faster: Parallel Processing of Compressed Graphs with Ligra+"
     authors: "Julian Shun, Laxman Dhulipala, and Guy Blelloch"
     location: Proceedings of the IEEE Data Compression Conference (DCC), 2015.
-    pdf: /papers/Ligra+.pdf
+    pdf: /~laxman/papers/Ligra+.pdf
     code: https://github.com/jshun/ligra/
 
 -
     title: "A simple and practical linear-work parallel algorithm for connectivity"
     authors: "Julian Shun, Laxman Dhulipala, and Guy Blelloch"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2014.
-    pdf: /papers/WEConnectivity.pdf
+    pdf: /~laxman/papers/WEConnectivity.pdf
     code: https://people.csail.mit.edu/jshun/connectedComponents.tar
 
 
