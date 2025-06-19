@@ -1,4 +1,19 @@
 -
+    title: "Scaling Parallel Algorithms to Massive Datasets using Multi-SSD Machines"
+    authors: "Haohong Li, Jamshed Khan, Laxman Dhulipala"
+    location: To appear at SPAA'25
+
+-
+    title: "Fully-Dynamic Parallel Algorithms for Single-Linkage Clustering"
+    authors: "Quinten De Man, Laxman Dhulipala, Kishen Gowda"
+    location: To appear at SPAA'25
+
+-
+    title: "Optimal Batch-Dynamic kd-trees for Processing-in-Memory with Applications"
+    authors: "Yiwei Zhao, Hongbo Kang, Yan Gu, Guy E. Blelloch, Laxman Dhulipala, Charles McGuffey, Phillip B. Gibbons"
+    location: To appear at SPAA'25
+
+-
     title: "Towards Scalable and Practical Batch-Dynamic Connectivity"
     authors: "Quinten De Man, Laxman Dhulipala, Adam Karczmarz, Jakub Łącki, Julian Shun, Zhongqi Wang"
     location: To appear at VLDB'25
@@ -9,21 +24,6 @@
     authors: "Shangdi Yu, Jessica Shi, Jamison Meindl, David Eisenstat, Xiaoen Ju, Sasan Tavakkol, Laxman Dhulipala, Jakub Łącki, Vahab Mirrokni, Julian Shun"
     location: To appear at VLDB'25
     arxiv: https://arxiv.org/pdf/2411.10290
-
--
-    title: "Fully-Dynamic Parallel Algorithms for Single-Linkage Clustering"
-    authors: "Quinten De Man, Laxman Dhulipala, Kishen Gowda"
-    location: To appear at SPAA'25
-
--
-    title: "Scaling Parallel Algorithms to Massive Datasets using Multi-SSD Machines"
-    authors: "Haohong Li, Jamshed Khan, Laxman Dhulipala"
-    location: To appear at SPAA'25
-
--
-    title: "Optimal Batch-Dynamic kd-trees for Processing-in-Memory with Applications"
-    authors: "Yiwei Zhao, Hongbo Kang, Yan Gu, Guy E. Blelloch, Laxman Dhulipala, Charles McGuffey, Phillip B. Gibbons"
-    location: To appear at SPAA'25
 
 -
     title: "DynHAC: Fully Dynamic Approximate Hierarchical Agglomerative Clustering"
