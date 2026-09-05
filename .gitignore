@@ -1,0 +1,12 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+.DS_Store
+_data/.DS_Store
+_data/.jekyll-cache/
+_data/_site/
+*.MOV
+*.mov
