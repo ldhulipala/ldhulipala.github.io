@@ -107,7 +107,7 @@
 -
     title: "Unleashing Graph Partitioning for Large-Scale Nearest Neighbor Search"
     authors: "Lars Gottesbüren, Laxman Dhulipala, Rajesh Jayaram, and Jakub Łącki"
-    location: Proceedings of the VLDB Endowment (PVLDB), Vol. 18, No. 7, pp. 1649–1662, 2025.
+    location: Proceedings of the VLDB Endowment (PVLDB), 2025.
     pdf: https://www.vldb.org/pvldb/vol18/p1649-gottesbueren.pdf
     arxiv: https://arxiv.org/abs/2403.01797
 
