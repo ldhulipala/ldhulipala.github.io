@@ -41,18 +41,6 @@
     arxiv: https://arxiv.org/abs/2507.20047
 
 -
-    title: "Fine-Grained Privacy Guarantees for Coverage Problems"
-    authors: "Laxman Dhulipala and George Z. Li"
-    location: arXiv preprint arXiv:2403.03337, 2024.
-    arxiv: https://arxiv.org/abs/2403.03337
-
--
-    title: "Near-Optimal Differentially Private k-Core Decomposition"
-    authors: "Laxman Dhulipala, George Z. Li, and Quanquan C. Liu"
-    location: arXiv preprint arXiv:2312.07706, 2023.
-    arxiv: https://arxiv.org/abs/2312.07706
-
--
     title: "UFO Trees: Practical and Provably-Efficient Parallel Batch-Dynamic Trees"
     authors: "Quinten De Man, Atharva Sharma, Kishen N. Gowda, and Laxman Dhulipala"
     location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2026.
