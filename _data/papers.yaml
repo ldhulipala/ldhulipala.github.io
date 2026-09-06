@@ -1,28 +1,144 @@
 -
+    title: "Parallel Batch-Dynamic Maximal Independent Set"
+    authors: "Guy E. Blelloch, Andrew C. Brady, Laxman Dhulipala, Jeremy T. Fineman, and Jared Lo"
+    location: arXiv preprint arXiv:2604.07515, 2026.
+    arxiv: https://arxiv.org/abs/2604.07515
+
+-
+    title: "Hybrid Sketching Methods for Dynamic Connectivity on Sparse Graphs"
+    authors: "Quinten De Man, Gilvir Gill, Michael A. Bender, Laxman Dhulipala, and David Tench"
+    location: arXiv preprint arXiv:2605.15173, 2026.
+    arxiv: https://arxiv.org/abs/2605.15173
+
+-
+    title: "Faster Parallel Batch-Dynamic Algorithms for Low Out-Degree Orientation"
+    authors: "Guy E. Blelloch, Andrew C. Brady, Laxman Dhulipala, Jeremy T. Fineman, Kishen N. Gowda, and Chase Hutton"
+    location: arXiv preprint arXiv:2602.17811, 2026.
+    arxiv: https://arxiv.org/abs/2602.17811
+
+-
+    title: "Chamfer-Linkage for Hierarchical Agglomerative Clustering"
+    authors: "Kishen N. Gowda, Willem Fletcher, MohammadHossein Bateni, Laxman Dhulipala, D. Ellis Hershkowitz, Rajesh Jayaram, and Jakub Łącki"
+    location: arXiv preprint arXiv:2602.10444, 2026.
+    arxiv: https://arxiv.org/abs/2602.10444
+
+-
+    title: "JAG: Joint Attribute Graphs for Filtered Nearest Neighbor Search"
+    authors: "Haike Xu, Guy E. Blelloch, Laxman Dhulipala, Lars Gottesbüren, Rajesh Jayaram, and Jakub Łącki"
+    location: arXiv preprint arXiv:2602.10258, 2026.
+    arxiv: https://arxiv.org/abs/2602.10258
+
+-
+    title: "TD-Orch: Scalable Load-Balancing for Distributed Systems with Applications to Graph Processing"
+    authors: "Yiwei Zhao, Qiushi Lin, Hongbo Kang, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Charles McGuffey, and Phillip B. Gibbons"
+    location: arXiv preprint arXiv:2511.11843, 2025.
+    arxiv: https://arxiv.org/abs/2511.11843
+
+-
+    title: "Parallel Hierarchical Agglomerative Clustering in Low Dimensions"
+    authors: "MohammadHossein Bateni, Laxman Dhulipala, Willem Fletcher, Kishen N. Gowda, D. Ellis Hershkowitz, Rajesh Jayaram, and Jakub Łącki"
+    location: arXiv preprint arXiv:2507.20047, 2025.
+    arxiv: https://arxiv.org/abs/2507.20047
+
+-
+    title: "Fine-Grained Privacy Guarantees for Coverage Problems"
+    authors: "Laxman Dhulipala and George Z. Li"
+    location: arXiv preprint arXiv:2403.03337, 2024.
+    arxiv: https://arxiv.org/abs/2403.03337
+
+-
+    title: "Near-Optimal Differentially Private k-Core Decomposition"
+    authors: "Laxman Dhulipala, George Z. Li, and Quanquan C. Liu"
+    location: arXiv preprint arXiv:2312.07706, 2023.
+    arxiv: https://arxiv.org/abs/2312.07706
+
+-
+    title: "UFO Trees: Practical and Provably-Efficient Parallel Batch-Dynamic Trees"
+    authors: "Quinten De Man, Atharva Sharma, Kishen N. Gowda, and Laxman Dhulipala"
+    location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2026.
+    pdf: https://doi.org/10.1145/3774934.3786431
+    arxiv: https://arxiv.org/abs/2601.10706
+
+-
+    title: "PIM-zd-tree: A Fast Space-Partitioning Index Leveraging Processing-in-Memory"
+    authors: "Yiwei Zhao, Hongbo Kang, Ziyang Men, Yan Gu, Guy E. Blelloch, Laxman Dhulipala, Charles McGuffey, and Phillip B. Gibbons"
+    location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2026.
+    pdf: https://doi.org/10.1145/3774934.3786411
+
+-
+    title: "Efficiently Constructing Sparse Navigable Graphs"
+    authors: "Alex Conway, Laxman Dhulipala, Martin Farach-Colton, Rob Johnson, Ben Landrum, Christopher Musco, Yarin Shechter, Torsten Suel, and Richard Wen"
+    location: Proceedings of the ACM-SIAM Symposium on Discrete Algorithms (SODA), 2026.
+    pdf: https://doi.org/10.1137/1.9781611978971.59
+    arxiv: https://arxiv.org/abs/2507.13296
+
+-
+    title: "Fast and Theoretically Efficient Batch-Parallel Link-Cut Trees, Euler Tour Trees, and Treaps"
+    authors: "Quinten De Man and Laxman Dhulipala"
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2026.
+    pdf: https://doi.org/10.1145/3816782.3819216
+
+-
+    title: "PiPNN: Ultra-Scalable Graph-Based Nearest Neighbor Indexing"
+    authors: "Tobias Rubel, Richard Wen, Laxman Dhulipala, Lars Gottesbüren, Rajesh Jayaram, and Jakub Łącki"
+    location: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.
+    pdf: https://doi.org/10.1145/3770855.3817891
+    arxiv: https://arxiv.org/abs/2602.21247
+
+-
+    title: "Unleashing Graph Partitioning for Large-Scale Nearest Neighbor Search"
+    authors: "Lars Gottesbüren, Laxman Dhulipala, Rajesh Jayaram, and Jakub Łącki"
+    location: Proceedings of the VLDB Endowment (PVLDB), Vol. 18, No. 7, pp. 1649–1662, 2025.
+    pdf: https://www.vldb.org/pvldb/vol18/p1649-gottesbueren.pdf
+    arxiv: https://arxiv.org/abs/2403.01797
+
+-
+    title: "PIM-tree: A Skew-resistant Index for Processing-in-Memory"
+    authors: "Hongbo Kang, Yiwei Zhao, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Charles McGuffey, and Phillip B. Gibbons"
+    location: The VLDB Journal, 2025.
+    pdf: https://doi.org/10.1007/s00778-025-00937-5
+
+-
+    title: "Near-Optimal Differentially Private Graph Algorithms via the Multidimensional AboveThreshold Mechanism"
+    authors: "Laxman Dhulipala, Monika Henzinger, George Z. Li, Quanquan C. Liu, A. R. Sricharan, and Leqi Zhu"
+    location: Proceedings of the 33rd European Symposium on Algorithms (ESA), 2025.
+    pdf: https://doi.org/10.4230/LIPIcs.ESA.2025.91
+    arxiv: https://arxiv.org/abs/2508.02182
+
+-
+    title: "IVF$^{2}$ Index: Fusing Classic and Spatial Inverted Indices for Fast Filtered ANNS"
+    authors: "Ben Landrum, Magdalen Dobson Manohar, Mazin Karjikar, and Laxman Dhulipala"
+    location: Proceedings of the 2nd International Workshop on Vector Data Management (VecDB), 2025.
+
+-
     title: "Scaling Parallel Algorithms to Massive Datasets using Multi-SSD Machines"
     authors: "Haohong Li, Jamshed Khan, Laxman Dhulipala"
-    location: To appear at SPAA'25
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2025.
+    pdf: https://doi.org/10.1145/3694906.3743308
 
 -
     title: "Fully-Dynamic Parallel Algorithms for Single-Linkage Clustering"
     authors: "Quinten De Man, Laxman Dhulipala, Kishen Gowda"
-    location: To appear at SPAA'25
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2025.
+    pdf: https://doi.org/10.1145/3694906.3743315
 
 -
     title: "Optimal Batch-Dynamic kd-trees for Processing-in-Memory with Applications"
     authors: "Yiwei Zhao, Hongbo Kang, Yan Gu, Guy E. Blelloch, Laxman Dhulipala, Charles McGuffey, Phillip B. Gibbons"
-    location: To appear at SPAA'25
+    location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2025.
+    pdf: https://doi.org/10.1145/3694906.3743318
 
 -
     title: "Towards Scalable and Practical Batch-Dynamic Connectivity"
     authors: "Quinten De Man, Laxman Dhulipala, Adam Karczmarz, Jakub Łącki, Julian Shun, Zhongqi Wang"
-    location: To appear at VLDB'25
+    location: Proceedings of the VLDB Endowment (PVLDB), 2025.
     arxiv: https://arxiv.org/pdf/2411.11781
+    code: https://github.com/ParAlg/BatchDynamicConnectivity
 
 -
     title: "The ParClusterers Benchmark Suite (PCBS): A Fine-Grained Analysis of Scalable Graph Clustering"
     authors: "Shangdi Yu, Jessica Shi, Jamison Meindl, David Eisenstat, Xiaoen Ju, Sasan Tavakkol, Laxman Dhulipala, Jakub Łącki, Vahab Mirrokni, Julian Shun"
-    location: To appear at VLDB'25
+    location: Proceedings of the VLDB Endowment (PVLDB), 2025.
     arxiv: https://arxiv.org/pdf/2411.10290
 
 -
@@ -37,6 +153,20 @@
     authors: "Quinten De Man, Richard Wen, Laxman Dhulipala"
     location: Proceedings of the 1st FastCode Programming Challenge, 2025
     pdf: https://dl.acm.org/doi/10.1145/3711708.3723448
+
+-
+    title: "Approximate Nearest Neighbor Search with Window Filters"
+    authors: "Joshua Engels, Benjamin Landrum, Shangdi Yu, Laxman Dhulipala, and Julian Shun"
+    location: Proceedings of the 41st International Conference on Machine Learning (ICML), 2024.
+    pdf: https://proceedings.mlr.press/v235/engels24a.html
+    arxiv: https://arxiv.org/abs/2402.00943
+
+-
+    title: "Results of the Big ANN: NeurIPS'23 Competition"
+    authors: "Harsha Vardhan Simhadri, Martin Aumüller, Amir Ingber, Matthijs Douze, George Williams, Magdalen Dobson Manohar, Dmitry Baranchuk, Edo Liberty, Frank Liu, Ben Landrum, Mazin Karjikar, Laxman Dhulipala, et al."
+    location: Proceedings of Machine Learning Research (PMLR), NeurIPS 2023 Competitions Track, 2024.
+    arxiv: https://arxiv.org/abs/2409.17424
+    award: "Won the NeurIPS'23 Competition Track: Big-ANN (Filtering)"
 
 -
     title: "MUVERA: Multi-Vector Retrieval via Fixed Dimensional Encoding"
@@ -70,15 +200,17 @@
 
 -
     title: "It's Hard to HAC with Average Linkage!"
-    authors: "Mohammad Hossein Bateni, Laxman Dhulipala, Kishen Gowda, D Ellis Hershkowitz, Rajesh Jarayam and Jakub Łącki"
-    location: International Colloquium on Automata, Languages, and Programming (ICALP)
+    authors: "MohammadHossein Bateni, Laxman Dhulipala, Kishen N. Gowda, D. Ellis Hershkowitz, Rajesh Jayaram, and Jakub Łącki"
+    location: Proceedings of the 51st International Colloquium on Automata, Languages, and Programming (ICALP), 2024.
+    pdf: https://doi.org/10.4230/LIPIcs.ICALP.2024.18
     arxiv: https://arxiv.org/abs/2404.14730
 
 -
-    title: "Scaling Graph-Based ANNS Algorithms to Billion-Size Datasets: A Comparative Analysis"
+    title: "ParlayANN: Scalable and Deterministic Parallel Graph-Based Algorithms for Approximate Nearest Neighbor Search"
     authors: "Magdalen Dobson, Zheqi Shen, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Harsha Vardhan Simhadri, and Yihan Sun"
     location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2024.
     arxiv: https://arxiv.org/abs/2305.04359
+    code: https://github.com/cmuparlay/ParlayANN
 
 -
     title: "Parallel Integer Sort: Theory and Practice"
@@ -106,9 +238,10 @@
 
 -
     title: "Fast, Parallel, and Cache-Friendly Suffix Array Construction"
-    authors: "Jamshed Khan, Tobias Rubel, Laxman Dhulipala, Erin K. Molloy, and Rob Patro:"
-    location: Workshop on Algorithms in Bioinformatics (WABI), 2023.
+    authors: "Jamshed Khan, Tobias Rubel, Laxman Dhulipala, Erin K. Molloy, and Rob Patro"
+    location: Workshop on Algorithms in Bioinformatics (WABI), 2023. Also in Algorithms for Molecular Biology (AMOB), 2024.
     pdf: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.16
+    code: https://github.com/jamshed/CaPS-SA
 
 -
     title: "PIM-trie: A Skew-resistant Trie for Processing-in-Memory. "
@@ -178,7 +311,7 @@
 -
     title: "ParChain: A Framework for Parallel Hierarchical Agglomerative Clustering using Nearest-Neighbor Chain"
     authors: "Shangdi Yu, Yiqiu Wang, Yan Gu, Laxman Dhulipala, and Julian Shun"
-    location: To appear in Proceedings of the VLDB Endowment, 2022.
+    location: Proceedings of the VLDB Endowment (PVLDB), 2022.
     pdf: /~laxman/papers/parchain.pdf
     arxiv: https://arxiv.org/abs/2106.04727
 
@@ -404,5 +537,3 @@
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2014.
     pdf: /~laxman/papers/WEConnectivity.pdf
     code: https://people.csail.mit.edu/jshun/connectedComponents.tar
-
-
