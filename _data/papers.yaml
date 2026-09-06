@@ -87,6 +87,7 @@
     pdf: https://doi.org/10.1145/3774934.3786431
     arxiv: https://arxiv.org/abs/2601.10706
     code: https://github.com/ParAlg/UFOTree
+    award: "Best Paper Nominee"
 
 -
     title: "PIM-zd-tree: A Fast Space-Partitioning Index Leveraging Processing-in-Memory"
