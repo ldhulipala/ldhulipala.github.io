@@ -63,7 +63,7 @@
     authors: "Tobias Rubel, Richard Wen, Guy Blelloch, Laxman Dhulipala, Lars Gottesbüren, Jakub Łącki, and Vahab Mirrokni"
     location: Proceedings of the 2nd Workshop on Vector Databases (VecDB @ VLDB), 2026.
     pdf: https://openreview.net/pdf?id=8GzbSQMrLA
-    award: "Best Paper Award"
+    award: "Best Paper Award<br>Selected for Oral Presentation"
 
 -
     title: "JAG: Joint Attribute Graphs for Filtered Nearest Neighbor Search"
@@ -71,6 +71,7 @@
     location: Proceedings of the 2nd Workshop on Vector Databases (VecDB @ VLDB), 2026.
     pdf: https://openreview.net/pdf?id=k0KmpgMZoa
     arxiv: https://arxiv.org/abs/2602.10258
+    award: "Selected for Oral Presentation"
 
 -
     title: "MV-IVF: Multi-Vector Retrieval via Multi-Vector Clustering"
