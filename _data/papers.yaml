@@ -165,6 +165,7 @@
     authors: "Shangdi Yu, Jessica Shi, Jamison Meindl, David Eisenstat, Xiaoen Ju, Sasan Tavakkol, Laxman Dhulipala, Jakub Łącki, Vahab Mirrokni, Julian Shun"
     location: Proceedings of the VLDB Endowment (PVLDB), 2025.
     arxiv: https://arxiv.org/pdf/2411.10290
+    code: https://github.com/ParAlg/ParClusterers
 
 -
     title: "DynHAC: Fully Dynamic Approximate Hierarchical Agglomerative Clustering"
