@@ -57,6 +57,13 @@
 
 
 -
+    title: "PiPNN: Ultra-Scalable Graph-Based Nearest Neighbor Indexing"
+    authors: "Tobias Rubel, Richard Wen, Laxman Dhulipala, Lars Gottesbüren, Rajesh Jayaram, and Jakub Łącki"
+    location: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.
+    pdf: https://doi.org/10.1145/3770855.3817891
+    arxiv: https://arxiv.org/abs/2602.21247
+
+-
     title: "UFO Trees: Practical and Provably-Efficient Parallel Batch-Dynamic Trees"
     authors: "Quinten De Man, Atharva Sharma, Kishen N. Gowda, and Laxman Dhulipala"
     location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2026.
@@ -81,13 +88,6 @@
     authors: "Quinten De Man and Laxman Dhulipala"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2026.
     pdf: https://doi.org/10.1145/3816782.3819216
-
--
-    title: "PiPNN: Ultra-Scalable Graph-Based Nearest Neighbor Indexing"
-    authors: "Tobias Rubel, Richard Wen, Laxman Dhulipala, Lars Gottesbüren, Rajesh Jayaram, and Jakub Łącki"
-    location: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.
-    pdf: https://doi.org/10.1145/3770855.3817891
-    arxiv: https://arxiv.org/abs/2602.21247
 
 -
     title: "Unleashing Graph Partitioning for Large-Scale Nearest Neighbor Search"
