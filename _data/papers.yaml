@@ -221,6 +221,7 @@
     authors: "Laxman Dhulipala, Xiaojun Dong, Kishen Gowda, and Yan Gu"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2024.
     arxiv: https://arxiv.org/abs/2404.19019
+    code: https://github.com/kishen19/parsld
 
 -
     title: "It's Hard to HAC with Average Linkage!"
