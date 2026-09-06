@@ -93,6 +93,7 @@
     authors: "Yiwei Zhao, Hongbo Kang, Ziyang Men, Yan Gu, Guy E. Blelloch, Laxman Dhulipala, Charles McGuffey, and Phillip B. Gibbons"
     location: Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2026.
     pdf: https://doi.org/10.1145/3774934.3786411
+    code: https://github.com/cmuparlay/PIM-zd-tree
 
 -
     title: "Efficiently Constructing Sparse Navigable Graphs"
