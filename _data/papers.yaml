@@ -135,6 +135,7 @@
     authors: "Haohong Li, Jamshed Khan, Laxman Dhulipala"
     location: Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2025.
     pdf: https://doi.org/10.1145/3694906.3743308
+    code: https://github.com/ParAlg/PLAID
 
 -
     title: "Fully-Dynamic Parallel Algorithms for Single-Linkage Clustering"
