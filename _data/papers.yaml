@@ -1,44 +1,60 @@
--
-    title: "Parallel Batch-Dynamic Maximal Independent Set"
-    authors: "Guy E. Blelloch, Andrew C. Brady, Laxman Dhulipala, Jeremy T. Fineman, and Jared Lo"
-    location: arXiv preprint arXiv:2604.07515, 2026.
-    arxiv: https://arxiv.org/abs/2604.07515
+# ==============================================================================
+# Preprints (commented out until published)
+# ==============================================================================
+# -
+#     title: "Parallel Batch-Dynamic Maximal Independent Set"
+#     authors: "Guy E. Blelloch, Andrew C. Brady, Laxman Dhulipala, Jeremy T. Fineman, and Jared Lo"
+#     location: arXiv preprint arXiv:2604.07515, 2026.
+#     arxiv: https://arxiv.org/abs/2604.07515
+#
+# -
+#     title: "Hybrid Sketching Methods for Dynamic Connectivity on Sparse Graphs"
+#     authors: "Quinten De Man, Gilvir Gill, Michael A. Bender, Laxman Dhulipala, and David Tench"
+#     location: arXiv preprint arXiv:2605.15173, 2026.
+#     arxiv: https://arxiv.org/abs/2605.15173
+#
+# -
+#     title: "Faster Parallel Batch-Dynamic Algorithms for Low Out-Degree Orientation"
+#     authors: "Guy E. Blelloch, Andrew C. Brady, Laxman Dhulipala, Jeremy T. Fineman, Kishen N. Gowda, and Chase Hutton"
+#     location: arXiv preprint arXiv:2602.17811, 2026.
+#     arxiv: https://arxiv.org/abs/2602.17811
+#
+# -
+#     title: "Chamfer-Linkage for Hierarchical Agglomerative Clustering"
+#     authors: "Kishen N. Gowda, Willem Fletcher, MohammadHossein Bateni, Laxman Dhulipala, D. Ellis Hershkowitz, Rajesh Jayaram, and Jakub Łącki"
+#     location: arXiv preprint arXiv:2602.10444, 2026.
+#     arxiv: https://arxiv.org/abs/2602.10444
+#
+# -
+#     title: "JAG: Joint Attribute Graphs for Filtered Nearest Neighbor Search"
+#     authors: "Haike Xu, Guy E. Blelloch, Laxman Dhulipala, Lars Gottesbüren, Rajesh Jayaram, and Jakub Łącki"
+#     location: arXiv preprint arXiv:2602.10258, 2026.
+#     arxiv: https://arxiv.org/abs/2602.10258
+#
+# -
+#     title: "TD-Orch: Scalable Load-Balancing for Distributed Systems with Applications to Graph Processing"
+#     authors: "Yiwei Zhao, Qiushi Lin, Hongbo Kang, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Charles McGuffey, and Phillip B. Gibbons"
+#     location: arXiv preprint arXiv:2511.11843, 2025.
+#     arxiv: https://arxiv.org/abs/2511.11843
+#
+# -
+#     title: "Parallel Hierarchical Agglomerative Clustering in Low Dimensions"
+#     authors: "MohammadHossein Bateni, Laxman Dhulipala, Willem Fletcher, Kishen N. Gowda, D. Ellis Hershkowitz, Rajesh Jayaram, and Jakub Łącki"
+#     location: arXiv preprint arXiv:2507.20047, 2025.
+#     arxiv: https://arxiv.org/abs/2507.20047
+#
+# -
+#     title: "Fine-Grained Privacy Guarantees for Coverage Problems"
+#     authors: "Laxman Dhulipala and George Z. Li"
+#     location: arXiv preprint arXiv:2403.03337, 2024.
+#     arxiv: https://arxiv.org/abs/2403.03337
+#
+# -
+#     title: "Near-Optimal Differentially Private k-Core Decomposition"
+#     authors: "Laxman Dhulipala, George Z. Li, and Quanquan C. Liu"
+#     location: arXiv preprint arXiv:2312.07706, 2023.
+#     arxiv: https://arxiv.org/abs/2312.07706
 
--
-    title: "Hybrid Sketching Methods for Dynamic Connectivity on Sparse Graphs"
-    authors: "Quinten De Man, Gilvir Gill, Michael A. Bender, Laxman Dhulipala, and David Tench"
-    location: arXiv preprint arXiv:2605.15173, 2026.
-    arxiv: https://arxiv.org/abs/2605.15173
-
--
-    title: "Faster Parallel Batch-Dynamic Algorithms for Low Out-Degree Orientation"
-    authors: "Guy E. Blelloch, Andrew C. Brady, Laxman Dhulipala, Jeremy T. Fineman, Kishen N. Gowda, and Chase Hutton"
-    location: arXiv preprint arXiv:2602.17811, 2026.
-    arxiv: https://arxiv.org/abs/2602.17811
-
--
-    title: "Chamfer-Linkage for Hierarchical Agglomerative Clustering"
-    authors: "Kishen N. Gowda, Willem Fletcher, MohammadHossein Bateni, Laxman Dhulipala, D. Ellis Hershkowitz, Rajesh Jayaram, and Jakub Łącki"
-    location: arXiv preprint arXiv:2602.10444, 2026.
-    arxiv: https://arxiv.org/abs/2602.10444
-
--
-    title: "JAG: Joint Attribute Graphs for Filtered Nearest Neighbor Search"
-    authors: "Haike Xu, Guy E. Blelloch, Laxman Dhulipala, Lars Gottesbüren, Rajesh Jayaram, and Jakub Łącki"
-    location: arXiv preprint arXiv:2602.10258, 2026.
-    arxiv: https://arxiv.org/abs/2602.10258
-
--
-    title: "TD-Orch: Scalable Load-Balancing for Distributed Systems with Applications to Graph Processing"
-    authors: "Yiwei Zhao, Qiushi Lin, Hongbo Kang, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Charles McGuffey, and Phillip B. Gibbons"
-    location: arXiv preprint arXiv:2511.11843, 2025.
-    arxiv: https://arxiv.org/abs/2511.11843
-
--
-    title: "Parallel Hierarchical Agglomerative Clustering in Low Dimensions"
-    authors: "MohammadHossein Bateni, Laxman Dhulipala, Willem Fletcher, Kishen N. Gowda, D. Ellis Hershkowitz, Rajesh Jayaram, and Jakub Łącki"
-    location: arXiv preprint arXiv:2507.20047, 2025.
-    arxiv: https://arxiv.org/abs/2507.20047
 
 -
     title: "UFO Trees: Practical and Provably-Efficient Parallel Batch-Dynamic Trees"
