@@ -26,12 +26,6 @@
 #     arxiv: https://arxiv.org/abs/2602.10444
 #
 # -
-#     title: "JAG: Joint Attribute Graphs for Filtered Nearest Neighbor Search"
-#     authors: "Haike Xu, Guy E. Blelloch, Laxman Dhulipala, Lars Gottesbüren, Rajesh Jayaram, and Jakub Łącki"
-#     location: arXiv preprint arXiv:2602.10258, 2026.
-#     arxiv: https://arxiv.org/abs/2602.10258
-#
-# -
 #     title: "TD-Orch: Scalable Load-Balancing for Distributed Systems with Applications to Graph Processing"
 #     authors: "Yiwei Zhao, Qiushi Lin, Hongbo Kang, Guy E. Blelloch, Laxman Dhulipala, Yan Gu, Charles McGuffey, and Phillip B. Gibbons"
 #     location: arXiv preprint arXiv:2511.11843, 2025.
@@ -62,6 +56,27 @@
     location: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.
     pdf: https://doi.org/10.1145/3770855.3817891
     arxiv: https://arxiv.org/abs/2602.21247
+    award: "Best Research Paper"
+
+-
+    title: "Turbocharging PiPNN for Proximity and $k$-NN Graph Building"
+    authors: "Tobias Rubel, Richard Wen, Guy Blelloch, Laxman Dhulipala, Lars Gottesbüren, Jakub Łącki, and Vahab Mirrokni"
+    location: Proceedings of the 2nd Workshop on Vector Databases (VecDB @ VLDB), 2026.
+    pdf: https://openreview.net/pdf?id=8GzbSQMrLA
+    award: "Best Paper Award"
+
+-
+    title: "JAG: Joint Attribute Graphs for Filtered Nearest Neighbor Search"
+    authors: "Haike Xu, Guy Blelloch, Laxman Dhulipala, Lars Gottesbüren, Rajesh Jayaram, and Jakub Łącki"
+    location: Proceedings of the 2nd Workshop on Vector Databases (VecDB @ VLDB), 2026.
+    pdf: https://openreview.net/pdf?id=k0KmpgMZoa
+    arxiv: https://arxiv.org/abs/2602.10258
+
+-
+    title: "MV-IVF: Multi-Vector Retrieval via Multi-Vector Clustering"
+    authors: "Kishen N. Gowda, Laxman Dhulipala, Lars Gottesbüren, and Rajesh Jayaram"
+    location: Proceedings of the 2nd Workshop on Vector Databases (VecDB @ VLDB), 2026.
+    pdf: https://openreview.net/pdf?id=JZaw4wtJWZ
 
 -
     title: "UFO Trees: Practical and Provably-Efficient Parallel Batch-Dynamic Trees"
