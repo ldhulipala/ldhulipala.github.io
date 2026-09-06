@@ -133,6 +133,7 @@
     title: "IVF<sup>2</sup> Index: Fusing Classic and Spatial Inverted Indices for Fast Filtered ANNS"
     authors: "Ben Landrum, Magdalen Dobson Manohar, Mazin Karjikar, and Laxman Dhulipala"
     location: Proceedings of the 1st Workshop on Vector Databases at International Conference on Machine Learning, 2025.
+    pdf: https://openreview.net/pdf/8213f79ab3761a0647dbcfea17c73677712ea59c.pdf
 
 -
     title: "Scaling Parallel Algorithms to Massive Datasets using Multi-SSD Machines"
